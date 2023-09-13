@@ -18,7 +18,7 @@ Six entries have been flagged for removal by domain experts:
 > [Aythya fuligula](https://www.marinespecies.org/aphia.php?p=taxdetails&id=159164)  
 > [Coregonus clupeaformis](https://www.marinespecies.org/aphia.php?p=taxdetails&id=158726)  
 > [Hypophthalmichthys nobilis](https://www.marinespecies.org/aphia.php?p=taxdetails&id=154600)  
-> [Inia geoffrensis](https://www.marinespecies.org/aphia.php?p=taxdetails&id=254960) 
+> [Inia geoffrensis](https://www.marinespecies.org/aphia.php?p=taxdetails&id=254960)  
 > [Squalius cephalus](https://www.marinespecies.org/aphia.php?p=taxdetails&id=282855)  
     
 
