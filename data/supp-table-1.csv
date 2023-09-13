@@ -1,0 +1,698 @@
+"Assembly Accession","Organism Name","Organism Common Name","Organism Taxonomic ID","class","order","family","genus","Assembly Release Date","Assembly Sequencing Tech","Assembly Stats Contig N50"
+"GCA_900312575.1","Acanthochaenus luetkenii","pricklefish",473344,"Actinopteri","Beryciformes","Stephanoberycidae","Acanthochaenus","2018-03-19",NA,5636
+"GCF_021347895.1","Acanthochromis polyacanthus","spiny chromis",80966,"Actinopteri","Ovalentaria incertae sedis","Pomacentridae","Acanthochromis","2022-01-11","PacBio RSII; Hi-C",5524274
+"GCF_904848185.1","Acanthopagrus latus","yellowfin seabream",8177,"Actinopteri","Eupercaria incertae sedis","Sparidae","Acanthopagrus","2020-10-12",NA,14880455
+"GCA_029814675.1","Acanthurus coeruleus","blue tang surgeonfish",157585,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-18","Illumina",2710
+"GCA_029814705.1","Acanthurus grammoptilus","finelined surgeonfish",2609487,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-18","Illumina",1230
+"GCA_029814765.1","Acanthurus leucopareius",NA,1828454,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-18","Illumina",41786
+"GCA_029814665.1","Acanthurus lineatus","lined surgeonfish",483362,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-18","Illumina",28744
+"GCA_029814725.1","Acanthurus nigricauda","epaulette surgeonfish",753644,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-18","Illumina",2566
+"GCA_029823135.1","Acanthurus reversus",NA,1567455,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-18","Illumina",2195
+"GCA_029783805.1","Acanthurus tennentii","doubleband surgeonfish",586769,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-17","Illumina",6481
+"GCA_029783725.1","Acanthurus tractus","fiveband surgeonfish",1316013,"Actinopteri","Acanthuriformes","Acanthuridae","Acanthurus","2023-04-17","Illumina",8917
+"GCA_024762115.1","Acipenser gueldenstaedtii","Russian sturgeon",7902,"Actinopteri","Acipenseriformes","Acipenseridae","Acipenser","2022-08-29","BGISEQ-500",1043
+"GCA_020113195.1","Acipenser transmontanus","white sturgeon",7904,"Actinopteri","Acipenseriformes","Acipenseridae","Acipenser","2021-09-23","Illumina HiSeq",2596
+"GCA_916700685.1","Adelosebastes latens","Aleutian scorpionfish",1311530,"Actinopteri","Perciformes","Sebastidae","Adelosebastes","2021-10-09",NA,29796
+"GCA_901007665.1","Aeoliscus strigatus","razorfish",270546,"Actinopteri","Syngnathiformes","Centriscidae","Aeoliscus","2020-04-15",NA,15935
+"GCA_024635365.1","Aix galericulata","mandarin duck",8832,"Aves","Anseriformes","Anatidae","Aix","2022-08-16","Illumina HiSeq",77396
+"GCA_943590845.1","Akarotaxis nudiceps",NA,227741,"Actinopteri","Perciformes","Bathydraconidae","Akarotaxis","2022-06-15",NA,11955
+"GCA_019788955.1","Albula glossodonta","roundjaw bonefish",121402,"Actinopteri","Albuliformes","Albulidae","Albula","2021-08-27","PacBio Sequel; Illumina HiSeq",3575230
+"GCA_022829145.1","Albula goreensis",NA,1534307,"Actinopteri","Albuliformes","Albulidae","Albula","2022-04-08","Oxford Nanopore PromethION; Oxford Nanopore GridION; Illumina HiSeq; Illumina NovaSeq",17514905
+"GCA_008658365.1","Alca torda","razorbill",28689,"Aves","Charadriiformes","Alcidae","Alca","2019-10-10","PacBio Sequel; Illumina NovaSeq; 10X Genome; Arima Hi-C",18221265
+"GCA_029706075.1","Aldrovandia affinis","Gilbert's halosaur",143900,"Actinopteri","Notacanthiformes","Halosauridae","Aldrovandia","2023-04-12","Oxford Nanopore GridION; Oxford Nanopore PromethION",2000165
+"GCF_017589495.1","Alosa alosa","allis shad",278164,"Actinopteri","Clupeiformes","Clupeidae","Alosa","2021-03-30","Oxford Nanopore MinION; Oxford Nanopore GridION; Oxford Nanopore PromethION; Illumina HiSeq",1188980
+"GCA_029875135.1","Alosa fallax","twaite shad",278165,"Actinopteri","Clupeiformes","Clupeidae","Alosa","2023-04-26","Illumina NovaSeq",2043
+"GCF_018492685.1","Alosa sapidissima","American shad",34773,"Actinopteri","Clupeiformes","Clupeidae","Alosa","2021-05-25","PacBio Sequel II HiFi; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics Hi-C",1565278
+"GCF_010909765.2","Amblyraja radiata","thorny skate",386614,"Elasmobranchii","Rajiformes","Rajidae","Amblyraja","2020-02-21","PacBio Sequel; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",1462921
+"GCA_027576215.1","Amissidens hainesi","ridged catfish",591307,"Actinopteri","Siluriformes","Ariidae","Amissidens","2023-01-06","Illumina",369
+"GCA_026122265.1","Ammodytes dubius","northern sand lance",1266862,"Actinopteri","Perciformes","Ammodytidae","Ammodytes","2022-11-15","PacBio",3578647
+"GCA_949987685.1","Ammodytes marinus","lesser sand-eel",146480,"Actinopteri","Perciformes","Ammodytidae","Ammodytes","2023-05-03","PacBio,Arima2",2041615
+"GCA_027123335.1","Amphiprion clarkii","yellowtail clownfish",80970,"Actinopteri","Ovalentaria incertae sedis","Pomacentridae","Amphiprion","2022-12-21","PacBio Sequel; Illumina NovaSeq",1159304
+"GCF_022539595.1","Amphiprion ocellaris","clown anemonefish",80972,"Actinopteri","Ovalentaria incertae sedis","Pomacentridae","Amphiprion","2022-03-10","PacBio Sequel",812338
+"GCA_003047355.2","Amphiprion percula","orange clownfish",161767,"Actinopteri","Ovalentaria incertae sedis","Pomacentridae","Amphiprion","2018-11-28","PacBio",3123421
+"GCF_004355925.1","Anarrhichthys ocellatus","wolf-eel",433405,"Actinopteri","Perciformes","Anarhichadidae","Anarrhichthys","2019-03-08","Illumina HiSeq",41757
+"GCF_015476345.1","Anas platyrhynchos","mallard",8839,"Aves","Anseriformes","Anatidae","Anas","2020-11-23","PacBio RSII; PacBio Sequel",5679408
+"GCF_013347855.1","Anguilla anguilla","European eel",7936,"Actinopteri","Anguilliformes","Anguillidae","Anguilla","2020-06-18","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",5114673
+"GCA_025169545.1","Anguilla japonica","Japanese eel",7937,"Actinopteri","Anguilliformes","Anguillidae","Anguilla","2022-09-14","Oxford Nanopore",21484275
+"GCA_901111315.1","Anguilla marmorata","giant mottled eel",7939,"Actinopteri","Anguilliformes","Anguillidae","Anguilla","2020-02-10",NA,16529
+"GCA_901111305.1","Anguilla megastoma","Polynesian longfinned eel",86963,"Actinopteri","Anguilliformes","Anguillidae","Anguilla","2020-02-10",NA,14572
+"GCA_901111295.1","Anguilla obscura","Pacific shortfinned eel",86964,"Actinopteri","Anguilliformes","Anguillidae","Anguilla","2020-02-10",NA,12681
+"GCA_018555375.2","Anguilla rostrata","American eel",7938,"Actinopteri","Anguilliformes","Anguillidae","Anguilla","2021-05-28","PacBio Sequel; Oxford Nanopore PromethION",5018377
+"GCA_900683385.1","Anoplogaster cornuta","common fangtooth",88656,"Actinopteri","Trachichthyiformes","Anoplogastridae","Anoplogaster","2019-06-15",NA,3719
+"GCF_027596085.1","Anoplopoma fimbria","sablefish",229290,"Actinopteri","Perciformes","Anoplopomatidae","Anoplopoma","2023-02-16","Oxford Nanopore MinION; Illumina HiSeq",2569385
+"GCA_002592135.1","Anser brachyrhynchus","Pink-footed goose",132585,"Aves","Anseriformes","Anatidae","Anser","2017-10-19","Illumina HiSeq",97462
+"GCA_013358685.1","Antennarius maculatus","warty frogfish",882753,"Actinopteri","Lophiiformes","Antennariidae","Antennarius","2020-06-18","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",10114706
+"GCA_900303275.1","Antennarius striatus","striated frogfish",241820,"Actinopteri","Lophiiformes","Antennariidae","Antennarius","2018-03-19",NA,6086
+"GCA_021346845.1","Apeltes quadracus","fourspine stickleback",240154,"Actinopteri","Perciformes","Gasterosteidae","Apeltes","2022-01-03","PacBio Sequel",5710868
+"GCA_029814545.1","Apogonichthyoides opercularis",NA,2943258,"Actinopteri","Kurtiformes","Apogonidae","Apogon","2023-04-18","Illumina",1917
+"GCF_000699145.1","Aptenodytes forsteri","emperor penguin",9233,"Aves","Sphenisciformes","Spheniscidae","Aptenodytes","2014-06-06","Illumina HiSeq",31730
+"GCA_010087175.1","Aptenodytes patagonicus","king penguin",9234,"Aves","Sphenisciformes","Spheniscidae","Aptenodytes","2020-01-31","BGISEQ",133461
+"GCA_900642305.1","Arctocephalus gazella","antarctic fur seal",37190,"Mammalia","Carnivora","Otariidae","Arctocephalus","2019-02-08",NA,537425
+"GCA_028646355.1","Arctocephalus townsendi","Guadalupe fur seal",161921,"Mammalia","Carnivora","Otariidae","Arctocephalus","2023-02-16","Illumina NovaSeq 6000",61084
+"GCA_900303235.1","Arctogadus glacialis","Arctic cod",185735,"Actinopteri","Gadiformes","Gadidae","Arctogadus","2018-03-19",NA,3282
+"GCA_013399435.1","Arenaria interpres","ruddy turnstone",54971,"Aves","Charadriiformes","Scolopacidae","Arenaria","2020-07-10","Illumina HiSeq",48252
+"GCA_951799395.1","Argentina silus","greater argentine",446415,"Actinopteri","Argentiniformes","Argentinidae","Argentina","2023-05-27","PacBio,Arima2",858168
+"GCA_015710095.1","Argyrosomus japonicus","mulloway",448029,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Argyrosomus","2020-12-02","Illumina NovaSeq; PacBio Sequel",13110246
+"GCA_946959425.1","Argyrosomus regius","meagre",172269,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Argyrosomus","2022-12-25","""MinION,ILLUMINA""",7813463
+"GCA_026413345.1","Ariopsis seemanni","Tete sea catfish",243726,"Actinopteri","Siluriformes","Ariidae","Sciades","2022-11-27","Illumina",3050
+"GCA_025399975.1","Arius gagora","Gagora catfish",591255,"Actinopteri","Siluriformes","Ariidae","Arius","2022-09-25","Illumina",1657
+"GCA_027575915.1","Arius madagascariensis","Madagascar sea catfish",591257,"Actinopteri","Siluriformes","Ariidae","Arius","2023-01-06","Illumina",2645
+"GCA_016586285.1","Arothron firmamentum","starry toado",264149,"Actinopteri","Tetraodontiformes","Tetraodontidae","Arothron","2020-12-09","Illumina Hiseq X",17030
+"GCA_026167865.1","Aspistor quadriscutis",NA,287711,"Actinopteri","Siluriformes","Ariidae","Aspistor","2022-11-14","Illumina",3086
+"GCA_029874935.1","Atherina boyeri","big-scale sand smelt",87785,"Actinopteri","Atheriniformes","Atherinidae","Atherina","2023-04-26","Illumina NovaSeq",2873
+"GCA_023101725.1","Atherinomorus stipes","hardhead silverside",94911,"Actinopteri","Atheriniformes","Atherinidae","Atherinomorus","2022-04-25","Oxford Nanopore MinION; Illumina HiSeq",422115
+"GCA_029042245.1","Aythya marila","greater scaup",189534,"Aves","Anseriformes","Anatidae","Aythya","2023-03-15","Oxford Nanopore PromethION",32460729
+"GCA_028877455.1","Bagre pinnimaculatus","red sea catfish",243720,"Actinopteri","Siluriformes","Ariidae","Bagre","2023-02-27","Illumina",2206
+"GCF_949987535.1","Balaenoptera acutorostrata","minke whale",9767,"Mammalia","Cetartiodactyla","Balaenopteridae","Balaenoptera","2023-05-01","PacBio,Arima2",3015723
+"GCA_000978805.1","Balaenoptera bonaerensis","Antarctic minke whale",33556,"Mammalia","Cetartiodactyla","Balaenopteridae","Balaenoptera","2015-03-18","Illumina HiSeq2000",8410
+"GCF_009873245.2","Balaenoptera musculus","Blue whale",9771,"Mammalia","Cetartiodactyla","Balaenopteridae","Balaenoptera","2020-10-02","PacBio Sequel I; Illumina NovaSeq; 10X Genomics chromium; Dovetail Genomics HiC",6315640
+"GCA_023338255.1","Balaenoptera physalus","Fin whale",9770,"Mammalia","Cetartiodactyla","Balaenopteridae","Balaenoptera","2022-05-11","10X Chromium",146061
+"GCA_028023285.1","Balaenoptera ricei","Rice's whale",2746895,"Mammalia","Cetartiodactyla","Balaenopteridae","Balaenoptera","2023-01-30","PacBio Sequel II HiFi",36541936
+"GCA_943591095.1","Bathydraco marri","deepwater dragon",12964,"Actinopteri","Perciformes","Bathydraconidae","Bathydraco","2022-07-13",NA,1625
+"GCA_900302375.1","Bathygadus melanobranchus","Vaillant's grenadier",630650,"Actinopteri","Gadiformes","Macrouridae","Bathygadus","2018-03-19",NA,4956
+"GCA_025212315.1","Batrachocephalus mino",NA,2862888,"Actinopteri","Siluriformes","Ariidae","Batrachocephalus","2022-09-14","Illumina",1940
+"GCA_900323375.1","Benthosema glaciale","glacier lanternfish",125796,"Actinopteri","Myctophiformes","Myctophidae","Benthosema","2018-03-26",NA,4393
+"GCA_900312565.1","Beryx splendens","splendid alfonsino",88663,"Actinopteri","Beryciformes","Berycidae","Beryx","2018-03-19",NA,4286
+"GCF_026225935.1","Boleophthalmus pectinirostris","great blue-spotted mudskipper",150288,"Actinopteri","Gobiiformes","Gobiidae","Boleophthalmus","2022-11-17","PacBio RSII",835000
+"GCA_900302515.1","Boreogadus saida",NA,44932,"Actinopteri","Gadiformes","Gadidae","Boreogadus","2018-03-19",NA,3221
+"GCA_949987555.1","Borostomias antarcticus","large-eye snaggletooth",473354,"Actinopteri","Stomiiformes","Stomiidae","Borostomias","2023-05-03","PacBio,Arima2",959230
+"GCA_020698575.1","Bostrychus sinensis","four-eyed sleeper",86224,"Actinopteri","Gobiiformes","Eleotridae","Bostrychus","2021-11-02","PacBio Sequel; Illumina HiSeq",28280916
+"GCA_943590825.1","Bovichtus diacanthus",NA,483258,"Actinopteri","Perciformes","Bovichtidae","Bovichtus","2022-06-15",NA,31686
+"GCA_943593645.1","Bovichtus variegatus","thornfish",36205,"Actinopteri","Perciformes","Bovichtidae","Bovichtus","2022-06-10",NA,33439
+"GCA_016785285.1","Brachirus orientalis","oriental sole",435138,"Actinopteri","Pleuronectiformes","Soleidae","Euryglossa","2021-02-01","Illumina HiSeq 4000",352130
+"GCA_029030835.1","Brachyistius frenatus","kelp perch",100188,"Actinopteri","Ovalentaria incertae sedis","Embiotocidae","Brachyistius","2023-03-14","Oxford Nanopore MinION; Illumina NovaSeq",2589815
+"GCA_900302395.1","Bregmaceros cantori","striped codlet",630652,"Actinopteri","Gadiformes","Bregmacerotidae","Bregmaceros","2018-03-30",NA,4452
+"GCA_900302425.1","Brosme brosme","tusk",81638,"Actinopteri","Gadiformes","Lotidae","Brosme","2018-03-18",NA,3682
+"GCA_900303265.1","Brotula barbata","bearded brotula",432164,"Actinopteri","Ophidiiformes","Ophidiidae","Brotula","2018-03-20",NA,17578
+"GCA_008921705.1","Burhinus oedicnemus","Eurasian thick-knee",85105,"Aves","Charadriiformes","Burhinidae","Burhinus","2019-10-08","Illumina HiSeq",93678
+"GCA_028566615.2","Calidris melanotos","pectoral sandpiper",240202,"Aves","Charadriiformes","Scolopacidae","Calidris","2023-05-25","Illumina",3168
+"GCA_016630915.1","Callionymus lyra","dragonet",34785,"Actinopteri","Callionymiformes","Callionymidae","Callionymus","2021-01-13","Oxford Nanopore MinION",2201294
+"GCF_018977255.1","Callorhinchus milii","elephant shark",7868,"Holocephali","Chimaeriformes","Callorhinchidae","Callorhinchus","2021-06-21","PacBio RSII",1626615
+"GCF_003265705.1","Callorhinus ursinus","northern fur seal",34884,"Mammalia","Carnivora","Otariidae","Callorhinus","2018-06-26","Illumina HiSeq",133024
+"GCA_013401115.1","Calonectris borealis","Cory's shearwater",1323832,"Aves","Procellariiformes","Procellariidae","Calonectris","2020-07-10","Illumina HiSeq",63034
+"GCA_029224305.1","Caperea marginata","pygmy right whale",27604,"Mammalia","Cetartiodactyla","Neobalaenidae","Caperea","2023-03-16","10X Genomics Chromium",19492
+"GCA_021432705.1","Caranx ignobilis","giant trevally",376895,"Actinopteri","Carangiformes","Carangidae","Caranx","2022-01-10","PacBio Sequel; Illumina HiSeq",7719230
+"GCA_019059645.1","Caranx melampygus","bluefin trevally",181461,"Actinopteri","Carangiformes","Carangidae","Caranx","2021-06-29","PacBio Sequel",1469537
+"GCA_900312935.1","Carapus acus","pearlfish",1491482,"Actinopteri","Ophidiiformes","Carapidae","Carapus","2018-03-18",NA,9554
+"GCA_030264375.1","Carcharhinus longimanus","oceanic whitetip shark",302049,"Elasmobranchii","Carcharhiniformes","Carcharhinidae","Carcharhinus","2023-06-13","Illumina",5282
+"GCF_017639515.1","Carcharodon carcharias","great white shark",13397,"Elasmobranchii","Lamniformes","Lamnidae","Carcharodon","2021-03-30","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",6544962
+"GCF_023653815.1","Caretta caretta","Loggerhead turtle",8467,NA,"Testudines","Cheloniidae","Caretta","2022-06-07","Illumina NovaSeq; Oxford Nanopore PromethION",18214114
+"GCA_028877435.1","Cathorops dasycephalus","big-bellied sea catfish",419329,"Actinopteri","Siluriformes","Ariidae","Cathorops","2023-02-27","Illumina",1730
+"GCA_028877395.1","Cathorops festae",NA,591291,"Actinopteri","Siluriformes","Ariidae","Cathorops","2023-02-27","Illumina",1906
+"GCA_027576075.1","Cathorops hypophthalmus","gloomy sea catfish",419331,"Actinopteri","Siluriformes","Ariidae","Cathorops","2023-01-06","Illumina",2052
+"GCA_027575975.1","Cathorops multiradiatus","box sea catfish",419332,"Actinopteri","Siluriformes","Ariidae","Cathorops","2023-01-06","Illumina",2020
+"GCA_023349555.1","Cebidichthys violaceus","monkeyface prickleback",271503,"Actinopteri","Perciformes","Stichaeidae","Cebidichthys","2022-05-12","PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq",1006396
+"GCA_026898505.1","Centroberyx gerrardi","bight redfish",166262,"Actinopteri","Beryciformes","Berycidae","Centroberyx","2022-12-14","Oxford Nanopore PromethION",556002
+"GCA_030273125.1","Centropristis striata","black seabass",184440,"Actinopteri","Perciformes","Serranidae","Centropristis","2023-06-20","PacBio CCS; Illumina NovaSeq",9508883
+"GCA_027576275.1","Cephalocassis melanochir",NA,591264,"Actinopteri","Siluriformes","Ariidae","Cephalocassis","2023-01-06","Illumina",2443
+"GCA_019142605.1","Cephalopholis sonnerati","tomato hind",160708,"Actinopteri","Perciformes","Serranidae","Cephalopholis","2021-07-06","PacBio Sequel",2482587
+"GCA_013401065.1","Cepphus grylle",NA,28697,"Aves","Charadriiformes","Alcidae","Cepphus","2020-07-10","Illumina HiSeq",39689
+"GCA_023974075.1","Chaenocephalus aceratus","blackfin icefish",36190,"Actinopteri","Perciformes","Channichthyidae","Chaenocephalus","2022-06-29","PacBio Sequel; Illumina NovaSeq",1500626
+"GCA_943593825.1","Chaenodraco wilsoni","spiny icefish",70440,"Actinopteri","Perciformes","Channichthyidae","Chaenodraco","2022-06-15",NA,15823
+"GCA_029783705.1","Chaetodon striatus","banded butterflyfish",75016,"Actinopteri","Acanthuriformes","Chaetodontidae","Chaetodon","2023-04-17","Illumina",7523
+"GCA_025505535.1","Champsocephalus gunnari","mackerel icefish",52237,"Actinopteri","Perciformes","Channichthyidae","Champsocephalus","2022-09-30","Illumina HiSeq 2500; PE250",1648
+"GCF_902362185.1","Chanos chanos","milkfish",29144,"Actinopteri","Gonorynchiformes","Chanidae","Chanos","2019-08-14",NA,23134051
+"GCA_008711295.1","Charadrius alexandrinus","Kentish plover",50392,"Aves","Charadriiformes","Charadriidae","Charadrius","2019-09-27","Illumina HiSeq",129786
+"GCF_000708025.1","Charadrius vociferus","killdeer",50402,"Aves","Charadriiformes","Charadriidae","Charadrius","2014-08-05","Illumina HiSeq",39278
+"GCA_016785325.1","Chascanopsetta lugubris","pelican flounder",1003706,"Actinopteri","Pleuronectiformes","Bothidae","Chascanopsetta","2021-02-01","Illumina HiSeq 4000",14706
+"GCA_900302635.1","Chatrabus melanurus","pony toadfish",990972,"Actinopteri","Batrachoidiformes","Batrachoididae","Chatrabus","2018-03-30",NA,4581
+"GCF_018320785.1","Cheilinus undulatus","humphead wrasse",241271,"Actinopteri","Eupercaria incertae sedis","Labridae","Cheilinus","2021-05-12","Oxford Nanopore",16477222
+"GCA_029853015.1","Chelidonichthys spinosus","red gurnard",450224,"Actinopteri","Perciformes","Triglidae","Chelidonichthys","2023-04-21","PacBio Sequel",13767766
+"GCF_017976325.1","Chelmon rostratus","copperband butterflyfish",109905,"Actinopteri","Acanthuriformes","Chaetodontidae","Chelmon","2021-04-15","PacBio Sequel II CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",16959746
+"GCA_030220025.1","Chelon auratus","golden grey mullet",48191,"Actinopteri","Mugiliformes","Mugilidae","Liza","2023-06-07","Illumina NovaSeq",9018
+"GCA_029874265.1","Chelon labrosus","thicklip grey mullet",48171,"Actinopteri","Mugiliformes","Mugilidae","Chelon","2023-04-26","Illumina NovaSeq",4649
+"GCA_029874045.1","Chelon ramada","thin-lipped mullet",30804,"Actinopteri","Mugiliformes","Mugilidae","Liza","2023-04-26","Illumina NovaSeq",4561
+"GCF_015237465.2","Chelonia mydas","Green sea turtle",8469,NA,"Testudines","Cheloniidae","Chelonia","2021-07-15","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",39415510
+"GCF_004010195.1","Chiloscyllium plagiosum","whitespotted bambooshark",36176,"Elasmobranchii","Orectolobiformes","Hemiscylliidae","Chiloscyllium","2019-01-10","BGIseq-500",40597
+"GCA_003427335.1","Chiloscyllium punctatum","brownbanded bambooshark",137246,"Elasmobranchii","Orectolobiformes","Hemiscylliidae","Chiloscyllium","2018-08-02","Illumina HiSeq 1500",21276
+"GCA_013398295.1","Chionis minor","black-faced sheathbill",227182,"Aves","Charadriiformes","Chionidae","Chionis","2020-07-10","Illumina HiSeq",128427
+"GCA_943594065.1","Chionobathyscus dewitti",NA,70442,"Actinopteri","Perciformes","Channichthyidae","Chionobathyscus","2022-07-13",NA,1913
+"GCA_009756495.1","Chionodraco hamatus","Antarctic icefish",36188,"Actinopteri","Perciformes","Channichthyidae","Chionodraco","2019-12-16","Illumina HiSeq",2261
+"GCA_009756435.1","Chionodraco myersi","Myers' icefish",70433,"Actinopteri","Perciformes","Channichthyidae","Chionodraco","2019-12-16","Illumina HiSeq; PacBio RSII",42918
+"GCA_013397655.1","Chroicocephalus maculipennis","brown-hooded gull",287016,"Aves","Charadriiformes","Laridae","Chroicocephalus","2020-07-10","Illumina HiSeq",39391
+"GCA_900302755.1","Chromis chromis","damselfish",91607,"Actinopteri","Ovalentaria incertae sedis","Pomacentridae","Chromis","2018-03-21",NA,8509
+"GCA_029619115.1","Clangula hyemalis","long-tailed duck",197941,"Aves","Anseriformes","Anatidae","Clangula","2023-04-07","Illumina HiSeq",47528
+"GCA_023055335.1","Clinocottus analis","woolly sculpin",304258,"Actinopteri","Perciformes","Cottidae","Clinocottus","2022-04-19","PacBio Sequel II; Dovetail's OmniC; Illumina NovaSeq",9145431
+"GCF_900700415.2","Clupea harengus","Atlantic herring",7950,"Actinopteri","Clupeiformes","Clupeidae","Clupea","2019-04-16",NA,1006413
+"GCA_027475355.1","Coilia nasus","Japanese grenadier anchovy",365059,"Actinopteri","Clupeiformes","Engraulidae","Coilia","2022-12-28","PacBio",26648257
+"GCA_016785305.1","Colistium nudipinnis","New Zealand turbot",1156758,"Actinopteri","Pleuronectiformes","Pleuronectidae","Colistium","2021-02-01","Illumina HiSeq 4000",141808
+"GCA_004119915.2","Collichthys lucidus","big head croaker",240159,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Collichthys","2019-01-30","PacBio",1098566
+"GCA_029692045.1","Conger conger","European conger",82655,"Actinopteri","Anguilliformes","Congridae","Conger","2023-04-12","Oxford Nanopore GridION; Oxford Nanopore PromethION; Illumina HiSeq",1398550
+"GCA_002895965.2","Coryphaenoides rupestris","roundnose grenadier",163118,"Actinopteri","Gadiformes","Macrouridae","Coryphaenoides","2021-06-29","Illumina HiSeq; PacBio",62406
+"GCA_025762715.1","Corythoichthys haematopterus",NA,211658,"Actinopteri","Syngnathiformes","Syngnathidae","Corythoichthys","2022-10-19","Illumina",3951
+"GCF_030265065.1","Corythoichthys intestinalis","scribbled pipefish",161448,"Actinopteri","Syngnathiformes","Syngnathidae","Corythoichthys","2023-06-20","Pacbio Hi-Fi",56274649
+"GCF_900634415.1","Cottoperca gobio",NA,56716,"Actinopteri","Perciformes","Bovichtidae","Cottoperca","2019-02-06",NA,6330900
+"GCF_001723895.1","Crocodylus porosus","Australian saltwater crocodile",8502,"Crocodylia",NA,"Crocodylidae","Crocodylus","2016-09-13","Illumina HiSeq",34073
+"GCA_013133815.1","Cromileptes altivelis","humpback grouper",304459,"Actinopteri","Perciformes","Serranidae","Cromileptes","2020-05-21","PacBio",18269829
+"GCA_943590835.1","Cryodraco antarcticus",NA,36192,"Actinopteri","Perciformes","Channichthyidae","Cryodraco","2022-06-15",NA,17341
+"GCA_029783645.1","Ctenochaetus hawaiiensis",NA,390315,"Actinopteri","Acanthuriformes","Acanthuridae","Ctenochaetus","2023-04-17","Illumina",12045
+"GCF_009769545.1","Cyclopterus lumpus","lumpfish",8103,"Actinopteri","Perciformes","Cyclopteridae","Cyclopterus","2019-12-23","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",4950682
+"GCF_000523025.1","Cynoglossus semilaevis","tongue sole",244447,"Actinopteri","Pleuronectiformes","Cynoglossidae","Cynoglossus","2014-01-28","Illumina HiSeq2000",27008
+"GCF_000732505.1","Cyprinodon variegatus","sheepshead minnow",28743,"Actinopteri","Cyprinodontiformes","Cyprinodontidae","Cyprinodon","2015-10-01","Illumina",20803
+"GCA_900302355.1","Cyttopsis rosea","rosy dory",1176755,"Actinopteri","Zeiformes","Parazenidae","Cyttopsis","2018-03-19",NA,4843
+"GCA_901007715.1","Dactylopterus volitans","flying gurnard",94924,"Actinopteri","Dactylopteriformes","Dactylopteridae","Dactylopterus","2020-04-15",NA,8271
+"GCA_024666655.1","Dascyllus trimaculatus","three spot damselfish",50790,"Actinopteri","Ovalentaria incertae sedis","Pomacentridae","Dascyllus","2022-08-16","Illumina HiSeq; Oxford Nanopore MinION",1014029
+"GCA_030347415.1","Decapterus maruadsi","Japanese scad",58220,"Actinopteri","Carangiformes","Carangidae","Decapterus","2023-06-22","Oxford Nanopore PromethION",24671527
+"GCF_002288925.2","Delphinapterus leucas","beluga whale",9749,"Mammalia","Cetartiodactyla","Monodontidae","Delphinapterus","2019-08-29","Illumina HiSeqX",196689
+"GCA_030062865.1","Delphinus delphis","saddleback dolphin",9728,"Mammalia","Cetartiodactyla","Delphinidae","Delphinus","2023-05-24","Illumina NovaSeq; PacBio Sequel",54231611
+"GCF_009764565.3","Dermochelys coriacea","leatherback sea turtle",27794,NA,"Testudines","Dermochelyidae","Dermochelys","2021-08-25","PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",7029801
+"GCF_905237075.1","Dicentrarchus labrax","European seabass",13489,"Actinopteri","Eupercaria incertae sedis","Moronidae","Dicentrarchus","2021-04-24",NA,12677075
+"GCA_903131615.1","Diplodus sargus","white seabream",38941,"Actinopteri","Eupercaria incertae sedis","Sparidae","Diplodus","2020-06-05",NA,27464
+"GCA_900660315.1","Diretmoides pauciradiatus",NA,1415272,"Actinopteri","Trachichthyiformes","Diretmidae","Diretmoides","2019-06-19",NA,4028
+"GCA_900660295.1","Diretmus argenteus","silver spinyfin",88682,"Actinopteri","Trachichthyiformes","Diretmidae","Diretmus","2019-06-15",NA,2172
+"GCA_025770515.1","Dissostichus eleginoides","Patagonian toothfish",100907,"Actinopteri","Perciformes","Nototheniidae","Dissostichus","2022-10-20","PacBio Sequel",2530495
+"GCA_011823955.1","Dissostichus mawsoni","Antarctic toothfish",36200,"Actinopteri","Perciformes","Nototheniidae","Dissostichus","2020-04-01","PacBio Sequel",3015437
+"GCA_943591025.1","Dolloidraco longedorsalis",NA,202058,"Actinopteri","Perciformes","Artedidraconidae","Dolloidraco","2022-07-13",NA,4508
+"GCF_030265055.1","Doryrhamphus excisus","bluestripe pipefish",161450,"Actinopteri","Syngnathiformes","Syngnathidae","Doryrhamphus","2023-06-30","Pacbio HiFi; Phase Genomics Hi-C",18835985
+"GCA_013398915.1","Dromas ardeola",NA,458190,"Aves","Charadriiformes","Dromadidae","Dromas","2020-07-10","Illumina HiSeq",40991
+"GCA_030035585.1","Dugong dugon","dugong",29137,"Mammalia","Sirenia","Dugongidae","Dugong","2023-05-18","PacBio Sequel II HiFi; Dovetail OmniC",57632671
+"GCF_027744805.1","Dunckerocampus dactyliophorus","ringed pipefish",161453,"Actinopteri","Syngnathiformes","Syngnathidae","Doryrhamphus","2023-01-13","Pacbio HiFi; Phase Genomics Hi-C",26519775
+"GCF_900963305.1","Echeneis naucrates","live sharksucker",173247,"Actinopteri","Carangiformes","Echeneidae","Echeneis","2019-04-11",NA,12371513
+"GCA_900963305.2","Echeneis naucrates","live sharksucker",173247,"Actinopteri","Carangiformes","Echeneidae","Echeneis","2021-04-24",NA,12371513
+"GCF_000687185.1","Egretta garzetta","little egret",188379,"Aves","Ciconiiformes","Ardeidae","Egretta","2014-05-09","Illumina HiSeq",29019
+"GCA_951216825.1","Electrona antarctica",NA,206093,"Actinopteri","Myctophiformes","Myctophidae","Electrona","2023-05-11","PacBio,Arima2",1002537
+"GCA_025505465.1","Eleginops maclovinus","Patagonian blennie",56733,"Actinopteri","Perciformes","Eleginopsidae","Eleginops","2022-09-30","Illumina HiSeq 2500; PE250",6610
+"GCA_025629765.1","Eleginus gracilis","saffron cod",8047,"Actinopteri","Gadiformes","Gadidae","Eleginus","2022-10-08","Illumina",2114
+"GCA_014490765.1","Eleutheronema tetradactylum","Indian salmon",210139,"Actinopteri","Carangaria incertae sedis","Polynemidae","Eleutheronema","2020-09-08","Illumina",30813
+"GCA_022577435.1","Embiotoca jacksoni","black perch",100190,"Actinopteri","Ovalentaria incertae sedis","Embiotocidae","Embiotoca","2022-03-15","PacBio Sequel IIe; Dovetail OmniC; Illumina NovaSeq",6500778
+"GCA_004319985.1","Emydocephalus ijimae",NA,34996,NA,"Squamata","Elapidae","Emydocephalus","2019-01-09","Illumina HiSeq X",18545
+"GCA_027122795.1","Enchelyopus cimbrius","fourbeard rockling",81640,"Actinopteri","Gadiformes","Lotidae","Enchelyopus","2022-12-20","Illumina",2536
+"GCA_901007785.1","Entelurus aequoreus","snake pipefish",161455,"Actinopteri","Syngnathiformes","Syngnathidae","Entelurus","2020-04-15",NA,3393
+"GCA_014621495.2","Entosphenus tridentatus","Pacific lamprey",245074,"Petromyzonti","Petromyzontiformes","Petromyzontidae","Petromyzon","2020-11-05","Illumina NovaSeq",19580
+"GCA_900536245.1","Epinephelus coioides","orange-spotted grouper",94232,"Actinopteri","Perciformes","Serranidae","Epinephelus","2019-12-05",NA,2494056
+"GCA_026686955.1","Epinephelus cyanopodus","specked blue grouper",308565,"Actinopteri","Perciformes","Serranidae","Epinephelus","2022-12-06","PacBio Sequel; Hi-C",5850290
+"GCF_011397635.1","Epinephelus fuscoguttatus","brown-marbled grouper",293821,"Actinopteri","Perciformes","Serranidae","Epinephelus","2020-02-20","Oxford Nanopore sequencing technology",13857438
+"GCF_005281545.1","Epinephelus lanceolatus","giant grouper",310571,"Actinopteri","Perciformes","Serranidae","Epinephelus","2019-05-13","Illumina HiSeq; BGISEQ-500",159800
+"GCF_006386435.1","Epinephelus moara","kelp grouper",300413,"Actinopteri","Perciformes","Serranidae","Epinephelus","2019-06-26","BGISEQ500",76174
+"GCA_024346535.1","Eptatretus burgeri","inshore hagfish",7764,"Myxini","Myxiniformes","Myxinidae","Eptatretus","2022-07-09","Illumina HiSeq 1500",16240
+"GCA_030012505.1","Eretmochelys imbricata","hawksbill sea turtle",27787,NA,"Testudines","Cheloniidae","Eretmochelys","2023-05-15","PacBio Sequel",82034986
+"GCA_028021215.1","Eschrichtius robustus","grey whale",9764,"Mammalia","Cetartiodactyla","Eschrichtiidae","Eschrichtius","2023-01-31","PacBio Sequel II HiFi; 3D-DNA Hi-C",39209000
+"GCA_028564815.1","Eubalaena glacialis","North Atlantic right whale",27606,"Mammalia","Cetartiodactyla","Balaenidae","Eubalaena","2023-02-09","PacBio Sequel II HiFi; Bionano DLS; 3D DNA Hi-C",37467374
+"GCA_004363455.1","Eubalaena japonica","North Pacific right whale",302098,"Mammalia","Cetartiodactyla","Balaenidae","Eubalaena","2019-03-22","Illumina HiSeq",34866
+"GCA_026437355.1","Eucyclogobius newberryi","tidewater goby",166745,"Actinopteri","Gobiiformes","Gobiidae","Eucyclogobius","2022-11-28","PacBio Sequel II; PacBio Sequel IIe; Dovetail OmniC; Illumina NovaSeq",1700290
+"GCA_010085355.1","Eudyptes chrysocome","Rockhopper penguin",79626,"Aves","Sphenisciformes","Spheniscidae","Eudyptes","2020-01-31","Illumina HiSeq",80552
+"GCA_010084205.1","Eudyptes chrysolophus","Macaroni penguin",79627,"Aves","Sphenisciformes","Spheniscidae","Eudyptes","2020-01-31","BGISEQ",215030
+"GCA_010085365.1","Eudyptes filholi","Southern rockhopper penguin",1419345,"Aves","Sphenisciformes","Spheniscidae","Eudyptes","2020-01-31","Illumina HiSeq",86112
+"GCA_010082375.1","Eudyptes moseleyi","Northern rockhopper penguin",2495534,"Aves","Sphenisciformes","Spheniscidae","Eudyptes","2020-01-31","Illumina HiSeq",42318
+"GCA_010080425.1","Eudyptes schlegeli","Royal penguin",57240,"Aves","Sphenisciformes","Spheniscidae","Eudyptes","2020-01-31","BGISEQ",42596
+"GCA_010078445.1","Eudyptes sclateri","Erect-crested penguin",92688,"Aves","Sphenisciformes","Spheniscidae","Eudyptes","2020-01-31","Illumina HiSeq",83178
+"GCA_010080465.1","Eudyptula albosignata","White-flippered penguin",345258,"Aves","Sphenisciformes","Spheniscidae","Eudyptula","2020-01-31","BGISEQ",104210
+"GCA_010080355.1","Eudyptula minor","Little blue penguin",37083,"Aves","Sphenisciformes","Spheniscidae","Eudyptula","2020-01-31","BGISEQ",95403
+"GCA_010078495.1","Eudyptula novaehollandiae","Australian little penguin",2052820,"Aves","Sphenisciformes","Spheniscidae","Eudyptula","2020-01-31","BGISEQ",134160
+"GCF_004028035.1","Eumetopias jubatus","Steller sea lion",34886,"Mammalia","Carnivora","Otariidae","Eumetopias","2019-01-15","Illumina HiSeq",242372
+"GCA_030068295.1","Euristhmus nudiceps","naked-headed catfish",2578379,"Actinopteri","Siluriformes","Plotosidae","Euristhmus","2023-05-24","Illumina",3593
+"GCA_029490765.1","Euthynnus affinis","eastern little tuna",8227,"Actinopteri","Scombriformes","Scombridae","Euthynnus","2023-04-06","Illumina NovaSeq",11935974
+"GCA_901007705.1","Fistularia tabacaria","cornetfish",1046056,"Actinopteri","Syngnathiformes","Fistulariidae","Fistularia","2020-04-15",NA,17669
+"GCA_029814525.1","Fowleria aurita","crosseyed cardinalfish",512322,"Actinopteri","Kurtiformes","Apogonidae","Fowleria","2023-04-18","Illumina",5084
+"GCA_029814645.1","Fowleria isostigma",NA,316378,"Actinopteri","Kurtiformes","Apogonidae","Fowleria","2023-04-18","Illumina",3540
+"GCA_947846985.1","Fratercula arctica","Atlantic puffin",28701,"Aves","Charadriiformes","Alcidae","Fratercula","2023-02-03","PacBio,10xGenomics,HiC",16421795
+"GCA_014363165.1","Fratercula cirrhata",NA,43311,"Aves","Charadriiformes","Alcidae","Lunda","2020-08-22","Illumina Novaseq6000",19680
+"GCA_013389945.1","Fregata magnificens",NA,37042,"Aves","Pelecaniformes","Fregatidae","Fregata","2020-07-06","Illumina HiSeq",35511
+"GCA_013399335.1","Fregetta grallaria","white-bellied storm-petrel",79628,"Aves","Procellariiformes","Hydrobatidae","Fregetta","2020-07-10","Illumina HiSeq",15821
+"GCF_000690835.1","Fulmarus glacialis","Northern fulmar",30455,"Aves","Procellariiformes","Procellariidae","Fulmarus","2014-05-13","Illumina HiSeq",25926
+"GCF_011125445.2","Fundulus heteroclitus","mummichog",8078,"Actinopteri","Cyprinodontiformes","Fundulidae","Fundulus","2020-08-13","PacBio Sequel",587965
+"GCA_900302595.1","Gadiculus argenteus","silvery cod",185737,"Actinopteri","Gadiformes","Gadidae","Gadiculus","2018-03-18",NA,3379
+"GCF_026213295.1","Gadus chalcogrammus","walleye pollock",1042646,"Actinopteri","Gadiformes","Gadidae","Theragra","2022-11-18","Illumina NovaSeq",358862
+"GCA_025728055.1","Gadus macrocephalus","Pacific cod",80720,"Actinopteri","Gadiformes","Gadidae","Gadus","2022-10-17","Illumina",3434
+"GCF_902167405.1","Gadus morhua","Atlantic cod",8049,"Actinopteri","Gadiformes","Gadidae","Gadus","2019-07-16",NA,1015663
+"GCA_027123715.1","Gaidropsarus macrophthalmus","bigeye rockling",1476912,"Actinopteri","Gadiformes","Lotidae","Gaidropsarus","2022-12-20","Illumina",2798
+"GCA_025399955.1","Galeichthys feliceps","white baggar",593565,"Actinopteri","Siluriformes","Ariidae","Galeichthys","2022-09-25","Illumina",2348
+"GCA_025630025.2","Gallinago media","great snipe",114734,"Aves","Charadriiformes","Scolopacidae","Gallinago","2023-05-25","Illumina",3241
+"GCA_025728075.1","Gallinago paraguaiae",NA,555258,"Aves","Charadriiformes","Scolopacidae","Gallinago","2022-10-17","Illumina",15517
+"GCF_016920845.1","Gasterosteus aculeatus aculeatus","three-spined stickleback",481459,"Actinopteri","Perciformes","Gasterosteidae","Gasterosteus","2021-02-23","PacBio",485752
+"GCA_014132575.2","Gasterosteus nipponicus",NA,1778380,"Actinopteri","Perciformes","Gasterosteidae","Gasterosteus","2020-07-29","Nanopore MinION; Illumina HiSeq 4000",544634
+"GCF_000690875.1","Gavia stellata","red-throated loon",37040,"Aves","Gaviiformes","Gaviidae","Gavia","2014-05-13","Illumina HiSeq",24321
+"GCA_027576375.1","Genidens genidens","Guri sea catfish",591326,"Actinopteri","Siluriformes","Ariidae","Genidens","2023-01-06","Illumina",2280
+"GCA_027123975.1","Genidens machadoi",NA,591327,"Actinopteri","Siluriformes","Ariidae","Genidens","2022-12-20","Illumina",2621
+"GCA_026546755.1","Genidens planifrons",NA,591328,"Actinopteri","Siluriformes","Ariidae","Genidens","2022-11-30","Illumina",2042
+"GCA_900660455.1","Gephyroberyx darwinii","Darwin's slimehead",334984,"Actinopteri","Trachichthyiformes","Trachichthyidae","Gephyroberyx","2019-06-18",NA,8514
+"GCA_024137785.1","Ginglymostoma cirratum","nurse shark",7801,"Elasmobranchii","Orectolobiformes","Ginglymostomatidae","Ginglymostoma","2022-06-30","Illumina NovaSeq",55429
+"GCA_013401295.1","Glareola pratincola",NA,43316,"Aves","Charadriiformes","Glareolidae","Glareola","2020-07-10","Illumina HiSeq",39898
+"GCF_006547405.1","Globicephala melas","long-finned pilot whale",9731,"Mammalia","Cetartiodactyla","Delphinidae","Globicephala","2019-07-01","Illumina HiSeq",332801
+"GCA_029874695.1","Gobio lozanoi",NA,1483034,"Actinopteri","Gobiiformes","Gobiidae","Gobius","2023-04-26","Illumina NovaSeq",1584
+"GCA_943591055.1","Gobionotothen gibberifrons","humped rockcod",36202,"Actinopteri","Perciformes","Nototheniidae","Gobionotothen","2022-06-15",NA,15896
+"GCA_951799975.1","Gobius niger","black goby",85417,"Actinopteri","Gobiiformes","Gobiidae","Gobius","2023-05-27","PacBio,Arima2",3365000
+"GCF_900634775.1","Gouania willdenowi","blunt-snouted clingfish",441366,"Actinopteri","Gobiesociformes","Gobiesocidae","Gouania","2019-02-06",NA,1838341
+"GCA_900634775.2","Gouania willdenowi","blunt-snouted clingfish",441366,"Actinopteri","Gobiesociformes","Gobiesocidae","Gouania","2020-07-31",NA,1838341
+"GCA_028646425.1","Grampus griseus","Risso's dolphin",83653,"Mammalia","Cetartiodactyla","Delphinidae","Grampus","2023-02-16","Illumina NovaSeq 6000",62041
+"GCA_900312595.1","Guentherus altivela","highfin tadpole fish",1263181,"Actinopteri","Ateleopodiformes","Ateleopodidae","Guentherus","2018-03-19",NA,2928
+"GCA_029814585.1","Gymnapogon annona",NA,2943265,"Actinopteri","Kurtiformes","Apogonidae","Gymnapogon","2023-04-18","Illumina",3876
+"GCF_902827175.1","Gymnodraco acuticeps",NA,8218,"Actinopteri","Perciformes","Bathydraconidae","Gymnodraco","2020-04-15",NA,534678
+"GCA_029692085.1","Gymnothorax javanicus","giant moray",473457,"Actinopteri","Anguilliformes","Muraenidae","Gymnothorax","2023-04-12","Oxford Nanopore PromethION; Oxford Nanopore GridION; Illumina HiSeq",24488841
+"GCA_029721435.1","Gymnothorax reevesii","Reeve's moray",473459,"Actinopteri","Anguilliformes","Muraenidae","Gymnothorax","2023-04-18","PacBio Sequel",53379876
+"GCF_000691405.1","Haliaeetus albicilla","white-tailed eagle",8969,"Aves","Falconiformes","Accipitridae","Haliaeetus","2014-05-15","Illumina HiSeq",25143
+"GCF_000737465.1","Haliaeetus leucocephalus","bald eagle",52644,"Aves","Falconiformes","Accipitridae","Haliaeetus","2014-08-04","Illumina",105493
+"GCA_025740775.1","Haliaeetus leucogaster",NA,52645,"Aves","Falconiformes","Accipitridae","Haliaeetus","2022-10-18","Illumina",31650
+"GCF_012393455.1","Halichoerus grypus","gray seal",9711,"Mammalia","Carnivora","Phocidae","Halichoerus","2020-04-15","Illumina NextSeq; Oxford Nanopore MinION",1011981
+"GCA_902827135.1","Harpagifer antarcticus","Antarctic spiny plunderfish",43256,"Actinopteri","Perciformes","Harpagiferidae","Harpagifer","2020-04-15",NA,1048452
+"GCA_916700675.1","Helicolenus avius",NA,394686,"Actinopteri","Perciformes","Sebastidae","Helicolenus","2021-10-06",NA,7951
+"GCA_916700815.1","Helicolenus hilgendorfi",NA,143344,"Actinopteri","Perciformes","Sebastidae","Helicolenus","2021-11-12",NA,9468
+"GCA_027575995.1","Hemiarius dioctes","warrior catfish",591320,"Actinopteri","Siluriformes","Ariidae","Hemiarius","2023-01-06","Illumina",2335
+"GCA_027576015.1","Hemiarius stormii","armoured sea catfish",591303,"Actinopteri","Siluriformes","Ariidae","Hemiarius","2023-01-06","Illumina",2576
+"GCA_020745735.1","Hemiscyllium ocellatum","epaulette shark",170820,"Elasmobranchii","Orectolobiformes","Hemiscylliidae","Hemiscyllium","2021-11-05","PacBio Sequel II CLR; Illumina NovaSeq; Bionano Genomics DLS; Arima Genomics Hi-C v1",8845575
+"GCA_029783685.1","Heniochus monoceros","masked bannerfish",466131,"Actinopteri","Acanthuriformes","Chaetodontidae","Heniochus","2023-04-17","Illumina",3773
+"GCA_003993805.1","Himantopus leucocephalus",NA,507594,"Aves","Charadriiformes","Recurvirostridae","Himantopus","2019-01-04","Illumina HiSeq",36551
+"GCA_018466805.1","Hippocampus abdominalis","big-belly seahorse",109274,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2021-05-25","PacBio Sequel",8410403
+"GCA_025770055.1","Hippocampus barbouri","Barbour's seahorse",109276,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2022-10-20","Illumina",18901
+"GCF_001891065.2","Hippocampus comes","tiger tail seahorse",109280,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2016-12-08","Illumina HiSeq 2000",39720
+"GCA_025802095.1","Hippocampus guttulatus","long-snouted seahorse",109282,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2022-10-23","Illumina",14905
+"GCA_901007745.1","Hippocampus kuda","spotted seahorse",103715,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2020-04-15",NA,10411
+"GCA_026261675.1","Hippocampus mohnikei","Japanese seahorse",109287,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2022-11-21","Oxford Nanopore MinION",18090544
+"GCA_901007805.1","Hippocampus whitei","White's seahorse",109292,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2020-04-15",NA,10333
+"GCF_025434085.1","Hippocampus zosterae","dwarf seahorse",109293,"Actinopteri","Syngnathiformes","Syngnathidae","Hippocampus","2022-09-29","Pacbio Hi-Fi; Phase Genomics HiC",22513697
+"GCF_009819705.1","Hippoglossus hippoglossus","Atlantic halibut",8267,"Actinopteri","Pleuronectiformes","Pleuronectidae","Hippoglossus","2019-12-31","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",7020318
+"GCF_022539355.2","Hippoglossus stenolepis","Pacific halibut",195615,"Actinopteri","Pleuronectiformes","Pleuronectidae","Hippoglossus","2022-03-10","Oxford Nanopore GridION; Oxford Nanopore PromethION; Illumina NovaSeq",4638087
+"GCA_018398805.1","Hirundichthys speculiger","mirrorwing flyingfish",938393,"Actinopteri","Beloniformes","Exocoetidae","Hirundichthys","2021-05-19","Illumina; PacBio",1092820
+"GCA_943590885.1","Histiodraco velifer",NA,36208,"Actinopteri","Perciformes","Artedidraconidae","Histiodraco","2022-06-15",NA,16240
+"GCA_025331565.1","Holacanthus passer","king angelfish",272788,"Actinopteri","Acanthuriformes","Pomacanthidae","Holacanthus","2022-09-20","Illumina HiSeq; Oxford Nanopore MinION",5708022
+"GCA_900302615.1","Holocentrus rufus","longspine squirrelfish",722565,"Actinopteri","Holocentriformes","Holocentridae","Holocentrus","2018-03-19",NA,9243
+"GCA_900660355.1","Hoplostethus atlanticus","orange roughy",96778,"Actinopteri","Trachichthyiformes","Trachichthyidae","Hoplostethus","2019-06-18",NA,7812
+"GCA_916700935.1","Hozukius emblemarius",NA,201712,"Actinopteri","Perciformes","Sebastidae","Hozukius","2021-10-09",NA,23430
+"GCA_916700995.1","Hozukius guyotensis",NA,2802376,"Actinopteri","Perciformes","Sebastidae","Hozukius","2021-10-09",NA,27170
+"GCA_012026655.1","Hydrolagus affinis","small-eyed rabbitfish",1459831,"Holocephali","Chimaeriformes","Chimaeridae","Hydrolagus","2020-04-03","Illumina",15857
+"GCA_019472885.1","Hydrophis curtus","Shaw's sea snake",355685,NA,"Squamata","Elapidae","Lapemis","2021-08-09","PacBio Sequel; Illumina HiSeq",9704100
+"GCA_019473425.1","Hydrophis cyanocinctus","Asian annulated sea snake",8686,NA,"Squamata","Elapidae","Hydrophis","2021-08-09","PacBio Sequel; Illumina HiSeq",18985681
+"GCA_004320005.1","Hydrophis melanocephalus",NA,34990,NA,"Squamata","Elapidae","Hydrophis","2019-02-13","Illumina HiSeq 2500; Illumina HiSeq 1500; Illumina MiSeq",7411
+"GCA_030144785.1","Hypanus sabinus","Atlantic stingray",79690,"Elasmobranchii","Myliobatiformes","Dasyatidae","Dasyatis","2023-06-05","PacBio Sequel II HiFi; Arima Hi-C v2",4909400
+"GCA_949752795.1","Hyperoodon ampullatus","northern bottlenose whale",48744,"Mammalia","Cetartiodactyla","Ziphiidae","Hyperoodon","2023-04-08","PacBio,Arima2",3126546
+"GCA_949357725.1","Hyperoplus immaculatus","greater sand-eel",1484357,"Actinopteri","Perciformes","Ammodytidae","Hyperoplus","2023-04-08","PacBio,Arima2",1486508
+"GCA_026929865.2","Hyperoplus lanceolatus","great sand-eel",508657,"Actinopteri","Perciformes","Ammodytidae","Hyperoplus","2023-01-31","Oxford Nanopore MinION",31308663
+"GCA_018346875.1","Hypomesus nipponensis","Japanese smelt",182223,"Actinopteri","Osmeriformes","Osmeridae","Hypomesus","2021-05-12","Illumina NovaSeq; PacBio Sequel",2124
+"GCA_025802035.1","Hypoplectrus aberrans","yellowbelly hamlet",146816,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2022-10-23","Illumina",8694
+"GCA_025762755.1","Hypoplectrus chlorurus","yellowtail hamlet",146815,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2022-10-19","Illumina",8830
+"GCA_028566275.1","Hypoplectrus guttavarius","shy hamlet",146814,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2023-02-09","Illumina",9386
+"GCA_025762485.1","Hypoplectrus indigo","indigo hamlet",222834,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2022-10-19","Illumina",11143
+"GCA_028566415.1","Hypoplectrus nigricans","black hamlet",146811,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2023-02-09","Illumina",8307
+"GCA_028566105.1","Hypoplectrus providencianus",NA,2884820,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2023-02-09","Illumina",8212
+"GCA_900610375.1","Hypoplectrus puella","barred hamlet",146810,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2018-12-12",NA,22581
+"GCA_028566055.1","Hypoplectrus randallorum","tan hamlet",2676245,"Actinopteri","Perciformes","Serranidae","Hypoplectrus","2023-02-09","Illumina",16708
+"GCA_016859345.1","Istiophorus platypterus","Indo-Pacific sailfish",13575,"Actinopteri","Carangiformes","Istiophoridae","Istiophorus","2021-02-12","Oxford Nanopore GridION; Illumina HiSeq; Illumina",11851605
+"GCA_026770705.1","Isurus oxyrinchus","shortfin mako shark",57983,"Elasmobranchii","Lamniformes","Lamnidae","Isurus","2022-12-09","PacBio Sequel",4177150
+"GCA_029224185.1","Karalla daura","goldstripe ponyfish",334402,"Actinopteri","Acanthuriformes","Leiognathidae","Leiognathus","2023-03-16","PacBio",1950773
+"GCA_026419965.1","Kogia breviceps","pygmy sperm whale",27615,"Mammalia","Cetartiodactyla","Kogiidae","Kogia","2022-11-27",NA,42780423
+"GCF_900080235.1","Labrus bergylta","ballan wrasse",56723,"Actinopteri","Eupercaria incertae sedis","Labridae","Labrus","2016-05-03",NA,703847
+"GCA_900303225.1","Laemonema laureysi",NA,1784819,"Actinopteri","Gadiformes","Moridae","Laemonema","2018-03-18",NA,3431
+"GCA_949774975.1","Lagenorhynchus albirostris","white-beaked dolphin",27610,"Mammalia","Cetartiodactyla","Delphinidae","Lagenorhynchus","2023-04-08","PacBio,Arima2",3398034
+"GCF_003676395.1","Lagenorhynchus obliquidens","Pacific white-sided dolphin",90247,"Mammalia","Cetartiodactyla","Delphinidae","Lagenorhynchus","2018-10-23","Illumina HiSeq",255779
+"GCA_911728415.1","Lagocephalus sceleratus","silver-cheeked toadfish",229057,"Actinopteri","Tetraodontiformes","Tetraodontidae","Gastrophysus","2021-11-19",NA,11300158
+"GCA_030220065.1","Lampetra fluviatilis","European river lamprey",7748,"Petromyzonti","Petromyzontiformes","Petromyzontidae","Lampetra","2023-06-07","Illumina NovaSeq",2371
+"GCA_900302545.1","Lampris guttatus","North Atlantic opah",81370,"Actinopteri","Lampriformes","Lampridae","Lampris","2018-03-30",NA,4051
+"GCF_029633865.1","Lampris incognitus","smalleye Pacific opah",2546036,"Actinopteri","Lampriformes","Lampridae","Lampris","2023-04-13","PacBio Sequel II HiFi; Arima Hi-C v2",917127
+"GCA_022114975.2","Lampris megalopsis","bigeye Pacific opah",2546035,"Actinopteri","Lampriformes","Lampridae","Lampris","2022-11-16","PacBio",2460786
+"GCA_900312555.1","Lamprogrammus exutus",NA,1592065,"Actinopteri","Ophidiiformes","Ophidiidae","Lamprogrammus","2018-03-20",NA,4213
+"GCF_000972845.2","Larimichthys crocea","large yellow croaker",215358,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Larimichthys","2018-11-27","Illumina HiSeq",277487
+"GCA_018985215.1","Larimichthys polyactis","yellow croaker",334908,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Larimichthys","2021-06-21","Illumina; Pacbio",1208045
+"GCA_028571125.1","Larus argentatus","herring gull",35669,"Aves","Charadriiformes","Laridae","Larus","2023-02-09","Illumina",28599
+"GCA_013400295.1","Larus smithsonianus","American herring gull",243888,"Aves","Charadriiformes","Laridae","Larus","2020-07-10","Illumina HiSeq",59826
+"GCA_004023545.1","Lateolabrax maculatus","spotted sea bass",315492,"Actinopteri","Acropomatiformes","Lateolabracidae","Lateolabrax","2019-01-15","Illumina HiSeq; BGI-Seq 500",42653
+"GCF_001640805.2","Lates calcarifer","barramundi perch",8187,"Actinopteri","Carangaria incertae sedis","Latidae","Lates","2022-08-01","Illumina HiSeq; PacBio",1379868
+"GCA_015471245.1","Laticauda colubrina","yellow-lipped sea krait",8628,NA,"Squamata","Elapidae","Laticauda","2020-11-04","Illumina HiSeq X",38278
+"GCA_004320025.1","Laticauda laticaudata","blue-ringed sea krait",8630,NA,"Squamata","Elapidae","Laticauda","2019-01-09","Illumina HiSeq 2500; PacBio RS II",35581
+"GCF_000225785.1","Latimeria chalumnae","coelacanth",7897,"Coelacanthi","Coelacanthiformes","Latimeriidae","Latimeria","2011-09-12","Illumina HiSeq",12671
+"GCA_943594155.1","Lepidonotothen larseni","painted notie",271505,"Actinopteri","Perciformes","Nototheniidae","Lepidonotothen","2022-07-13",NA,2280
+"GCA_943593335.1","Lepidonotothen squamifrons","grey rockcod",101496,"Actinopteri","Perciformes","Nototheniidae","Lepidonotothen","2022-07-13",NA,4447
+"GCF_000349705.1","Leptonychotes weddellii","Weddell seal",9713,"Mammalia","Carnivora","Phocidae","Leptonychotes","2013-03-29","Illumina HiSeq",23664
+"GCA_900303255.1","Lesueurigobius sanzi","Sanzo's goby",1365564,"Actinopteri","Gobiiformes","Gobiidae","Lesueurigobius","2018-03-21",NA,6729
+"GCA_018977245.1","Lethenteron camtschaticum","Arctic lamprey",980415,"Petromyzonti","Petromyzontiformes","Petromyzontidae","Lethenteron","2021-06-21","PacBio RSII; PacBio Sequel",1601692
+"GCF_028641065.1","Leucoraja erinacea","little skate",7782,"Elasmobranchii","Rajiformes","Rajidae","Leucoraja","2023-02-22","Illumina; PacBio Sequel",5310386
+"GCA_028565335.1","Limnodromus scolopaceus",NA,161678,"Aves","Charadriiformes","Scolopacidae","Limnodromus","2023-02-09","Illumina",23624
+"GCA_943590975.1","Lindbergichthys nudifrons","yellowfin notie",83203,"Actinopteri","Perciformes","Nototheniidae","Lepidonotothen","2022-06-15",NA,21363
+"GCA_006348945.1","Liparis tanakae","Tanaka's snailfish",230148,"Actinopteri","Perciformes","Liparidae","Liparis","2019-06-14","Illumina HiSeq",9903
+"GCF_010015895.1","Lontra canadensis","Northern American river otter",76717,"Mammalia","Carnivora","Mustelidae","Lontra","2020-01-27","Illumina HiSeq",691969
+"GCA_009660295.1","Lophius piscatorius","angler",8074,"Actinopteri","Lophiiformes","Lophiidae","Lophius","2019-11-13","Illumina HiSeq",104538
+"GCA_027495735.1","Lutjanus campechanus","northern red snapper",40505,"Actinopteri","Eupercaria incertae sedis","Lutjanidae","Lutjanus","2022-12-29","Illumina HiSeq; PacBio",15631
+"GCA_020091685.1","Lutjanus erythropterus","crimson snapper",211835,"Actinopteri","Eupercaria incertae sedis","Lutjanidae","Lutjanus","2021-09-23","BGISEQ",2781023
+"GCF_902655055.1","Lutra lutra","Eurasian river otter",9657,"Mammalia","Carnivora","Mustelidae","Lutra","2020-07-31",NA,30403456
+"GCA_028022725.1","Lycodopsis pacificus","blackbelly eelpout",1772091,"Actinopteri","Perciformes","Zoarcidae","Lycodopsis","2023-01-31","PacBio Sequel II HiFi; Arima Hi-C v2",4715471
+"GCA_011763505.2","Lythrypnus dalli","bluebanded goby",314003,"Actinopteri","Gobiiformes","Gobiidae","Lythrypnus","2023-02-16","Illumina",1826
+"GCA_901007825.1","Macroramphosus scolopax","longspine snipefish",206124,"Actinopteri","Syngnathiformes","Centriscidae","Macroramphosus","2020-04-15",NA,13365
+"GCA_900312585.1","Malacocephalus occidentalis","western softhead grenadier",630739,"Actinopteri","Gadiformes","Macrouridae","Malacocephalus","2018-03-18",NA,3697
+"GCA_903064625.1","Mallotus villosus","capelin",30960,"Actinopteri","Osmeriformes","Osmeridae","Mallotus","2020-05-18",NA,229616
+"GCA_029822895.1","Maxillicosta whitleyi",NA,274691,"Actinopteri","Perciformes","Neosebastidae","Maxillicosta","2023-04-18","Illumina",8016
+"GCA_028565255.1","Megaceryle alcyon","belted kingfisher",488309,"Aves","Coraciiformes","Alcedinidae","Megaceryle","2023-02-09","Illumina",17586
+"GCA_019176425.1","Megalops atlanticus","tarpon",7932,"Actinopteri","Elopiformes","Megalopidae","Megalops","2021-07-09","Oxford Nanopore MinION; Oxford Nanopore PromethION; Illumina HiSeq",17756893
+"GCF_013368585.1","Megalops cyprinoides","Indo-Pacific tarpon",118141,"Actinopteri","Elopiformes","Megalopidae","Megalops","2020-06-23","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",26850664
+"GCA_004329385.1","Megaptera novaeangliae","humpback whale",9773,"Mammalia","Cetartiodactyla","Balaenopteridae","Megaptera","2019-03-06","Illumina HiSeq",12321
+"GCA_029620185.1","Melanitta fusca","velvet scoter",371864,"Aves","Anseriformes","Anatidae","Melanitta","2023-04-07","Illumina HiSeq",106788
+"GCA_900291075.1","Melanogrammus aeglefinus","haddock",8056,"Actinopteri","Gadiformes","Gadidae","Melanogrammus","2018-03-19",NA,77605
+"GCA_900302345.1","Melanonus zugmayeri","arrowtail",181410,"Actinopteri","Gadiformes","Melanonidae","Melanonus","2018-03-19",NA,4562
+"GCA_949748355.1","Melanostigma gelatinosum","limp eelpout",1091424,"Actinopteri","Perciformes","Zoarcidae","Melanostigma","2023-04-08","PacBio,Arima2",1934223
+"GCA_013363375.1","Menidia beryllina","inland silverside",269057,"Actinopteri","Atheriniformes","Atherinopsidae","Menidia","2020-06-19","Illumina",40093
+"GCA_907169785.1","Menidia menidia","Atlantic silverside",238744,"Actinopteri","Atheriniformes","Atherinopsidae","Menidia","2021-05-15",NA,44269
+"GCA_900323355.1","Merlangius merlangus","whiting",8058,"Actinopteri","Gadiformes","Gadidae","Merlangius","2018-03-26",NA,3538
+"GCA_027123055.1","Merluccius bilinearis","silver hake",79698,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2022-12-20","Illumina",1848
+"GCA_900312945.1","Merluccius capensis","shallow-water Cape hake",89947,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2018-03-18",NA,3792
+"GCA_027122755.1","Merluccius hubbsi","Argentine hake",89949,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2022-12-20","Illumina",2431
+"GCA_900312545.1","Merluccius merluccius","European hake",8063,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2018-03-18",NA,3670
+"GCA_027123235.1","Merluccius paradoxus","deep-water Cape hake",89950,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2022-12-20","Illumina",4003
+"GCA_030340625.1","Merluccius polli","Benguela hake",89951,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2023-06-23","PacBio Sequel; Illumina HiSeq",168117
+"GCA_027122575.1","Merluccius polylepis",NA,2705414,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2022-12-20","Illumina",3412
+"GCA_027122695.1","Merluccius productus","North Pacific hake",89952,"Actinopteri","Gadiformes","Merlucciidae","Merluccius","2022-12-20","Illumina",4343
+"GCA_004027085.1","Mesoplodon bidens","Sowerby's beaked whale",48745,"Mammalia","Cetartiodactyla","Ziphiidae","Mesoplodon","2019-01-16","Illumina HiSeq",28959
+"GCA_025265405.1","Mesoplodon densirostris","Blainville's beaked whale",48708,"Mammalia","Cetartiodactyla","Ziphiidae","Mesoplodon","2022-09-19",NA,48253041
+"GCA_001593715.1","Miichthys miiuy","Mi-iuy croaker",240162,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Miichthys","2016-03-17","Illumina Hiseq 2000",81271
+"GCF_021288785.2","Mirounga angustirostris","Northern elephant seal",9716,"Mammalia","Carnivora","Phocidae","Mirounga","2022-12-21","Illumina NovaSeq 6000",76189
+"GCF_011800145.1","Mirounga leonina","Southern elephant seal",9715,"Mammalia","Carnivora","Phocidae","Mirounga","2020-03-31","Illumina NovaSeq",197952
+"GCA_030035685.1","Mobula birostris","giant manta",1983395,"Elasmobranchii","Myliobatiformes","Myliobatidae","Manta","2023-05-22","PacBio Sequel II HiFi; Arima Hi-C v2",8612779
+"GCA_001698575.1","Mola mola","ocean sunfish",94237,"Actinopteri","Tetraodontiformes","Molidae","Mola","2016-08-08","Illumina Hiseq 2000",23239
+"GCA_027123675.1","Molva macrophthalma",NA,348445,"Actinopteri","Gadiformes","Lotidae","Molva","2022-12-20","Illumina",4871
+"GCA_900323295.1","Molva molva","ling",163112,"Actinopteri","Gadiformes","Lotidae","Molva","2018-03-26",NA,4136
+"GCA_900323365.1","Monocentris japonicus","pineconefish",181435,"Actinopteri","Trachichthyiformes","Monocentridae","Monocentris","2018-03-26",NA,8046
+"GCF_005190385.1","Monodon monoceros","narwhal",40151,"Mammalia","Cetartiodactyla","Monodontidae","Monodon","2019-05-06","10X Genomics; Dovetail Chicago; Dovetail Hi-C; PacBio",255327
+"GCA_005190385.3","Monodon monoceros","narwhal",40151,"Mammalia","Cetartiodactyla","Monodontidae","Monodon","2022-11-09","PacBio; Dovetail Omni-C",22031227
+"GCA_900303205.1","Mora moro",NA,248765,"Actinopteri","Gadiformes","Moridae","Mora","2018-03-18",NA,3267
+"GCF_004916995.1","Morone saxatilis","striped sea-bass",34816,"Actinopteri","Eupercaria incertae sedis","Moronidae","Morone","2019-04-26","Illumina GAIIx; PacBio RSII; Illumina HiSeq",17211
+"GCF_022458985.1","Mugil cephalus","flathead mullet",48193,"Actinopteri","Mugiliformes","Mugilidae","Mugil","2022-03-04","PacBio Sequel; Illumina NovaSeq",20153794
+"GCA_016735935.1","Mugilogobius chulae","yellowstripe goby",88201,"Actinopteri","Gobiiformes","Gobiidae","Mugilogobius","2021-01-27","Illumina HiSeq; PacBio RS",701221
+"GCA_903171835.1","Mullus surmuletus","striped red mullet",87757,"Actinopteri","Mulliformes","Mullidae","Mullus","2020-06-05",NA,8436
+"GCA_900302325.1","Muraenolepis marmorata","marbled moray cod",487677,"Actinopteri","Gadiformes","Muraenolepididae","Muraenolepis","2018-03-19",NA,3126
+"GCA_027704905.1","Muraenolepis orangiensis","Patagonian moray cod",630683,"Actinopteri","Gadiformes","Muraenolepididae","Muraenolepis","2023-01-13","PacBio Sequel; Illumina NovaSeq",636888
+"GCA_900312955.1","Myoxocephalus scorpius","shorthorn sculpin",8097,"Actinopteri","Perciformes","Cottidae","Myoxocephalus","2018-03-19",NA,5716
+"GCA_900302555.1","Myripristis jacobus","blackbar soldierfish",371672,"Actinopteri","Holocentriformes","Holocentridae","Myripristis","2018-03-21",NA,9816
+"GCF_902150065.1","Myripristis murdjan","pinecone soldierfish",586833,"Actinopteri","Holocentriformes","Holocentridae","Myripristis","2019-07-03",NA,14475636
+"GCA_029783625.1","Naso annulatus","whitemargin unicornfish",238054,"Actinopteri","Acanthuriformes","Acanthuridae","Naso","2023-04-17","Illumina",5166
+"GCA_029874485.1","Naso brachycentron","humpback unicornfish",175441,"Actinopteri","Acanthuriformes","Acanthuridae","Naso","2023-04-26","Illumina",5639
+"GCA_029874835.1","Naso brevirostris","spotted unicornfish",238055,"Actinopteri","Acanthuriformes","Acanthuridae","Naso","2023-04-26","Illumina",9073
+"GCA_029874875.1","Naso minor","slender unicorn",238063,"Actinopteri","Acanthuriformes","Acanthuridae","Naso","2023-04-26","Illumina",3536
+"GCA_029783665.1","Naso thynnoides","oneknife unicornfish",238065,"Actinopteri","Acanthuriformes","Acanthuridae","Axinurus","2023-04-17","Illumina",10796
+"GCA_029822935.1","Naso vlamingii","bignose unicornfish",238067,"Actinopteri","Acanthuriformes","Acanthuridae","Naso","2023-04-18","Illumina",3223
+"GCA_030324005.1","Negaprion brevirostris","lemon shark",7821,"Elasmobranchii","Carcharhiniformes","Carcharhinidae","Negaprion","2023-06-22","Illumina",3446
+"GCA_027576855.1","Nemapteryx armiger","threadfin catfish",591305,"Actinopteri","Siluriformes","Ariidae","Nemapteryx","2023-01-06","Illumina",2140
+"GCA_027575955.1","Nemapteryx nenga",NA,591258,"Actinopteri","Siluriformes","Ariidae","Nemapteryx","2023-01-06","Illumina",2394
+"GCA_027579695.1","Neoarius graeffei","lesser salmon catfish",443677,"Actinopteri","Siluriformes","Ariidae","Neoarius","2023-01-09","PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2",14859289
+"GCA_025727735.1","Neoarius leptaspis","salmon catfish",591285,"Actinopteri","Siluriformes","Ariidae","Neoarius","2022-10-17","Illumina",2384
+"GCA_029814605.1","Neoarius pectoralis",NA,2943267,"Actinopteri","Siluriformes","Ariidae","Neoarius","2023-04-18","Illumina",2157
+"GCA_007210695.1","Neogobius melanostomus","round goby",47308,"Actinopteri","Gobiiformes","Gobiidae","Neogobius","2019-07-22","PacBio",2817412
+"GCA_900302535.1","Neoniphon sammara","Sammara squirrelfish",47706,"Actinopteri","Holocentriformes","Holocentridae","Neoniphon","2018-03-21",NA,8761
+"GCA_901007905.1","Nerophis ophidion","straightnose pipefish",159077,"Actinopteri","Syngnathiformes","Syngnathidae","Nerophis","2020-04-15",NA,5245
+"GCA_027576575.1","Netuma bilineata","bronze catfish",591271,"Actinopteri","Siluriformes","Ariidae","Netuma","2023-01-06","Illumina",2781
+"GCA_014281875.1","Nibea albiflora","white flower croaker",240163,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Nibea","2020-08-25","PacBio Sequel",4420150
+"GCA_023373845.1","Nibea coibor",NA,396775,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Nibea","2022-05-16","PacBio Sequel",9638600
+"GCA_025212355.1","Notarius kessleri","sculptured sea catfish",287704,"Actinopteri","Siluriformes","Ariidae","Notarius","2022-09-14","Illumina",2066
+"GCA_025400055.1","Notarius lentiginosus","freckled sea catfish",591273,"Actinopteri","Siluriformes","Ariidae","Notarius","2022-09-25","Illumina",2663
+"GCF_009762535.1","Notolabrus celidotus","New Zealand spotty",1203425,"Actinopteri","Eupercaria incertae sedis","Labridae","Notolabrus","2019-12-18","PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",3748462
+"GCF_000735185.1","Notothenia coriiceps","black rockcod",8208,"Actinopteri","Perciformes","Nototheniidae","Notothenia","2014-07-29","Illumina HiSeq; 454; PacBio",17487
+"GCA_949606895.1","Notothenia rossii","marbled rockcod",101497,"Actinopteri","Perciformes","Nototheniidae","Notothenia","2023-04-08","PacBio,Arima2",383412
+"GCA_027574745.1","Occidentarius platypogon","cominate sea catfish",1198624,"Actinopteri","Siluriformes","Ariidae","Sciades","2023-01-06","Illumina",2161
+"GCA_013396615.1","Oceanites oceanicus","Wilson's storm-petrel",79653,"Aves","Procellariiformes","Hydrobatidae","Oceanites","2020-07-10","Illumina HiSeq",28090
+"GCA_030449065.1","Oceanodroma leucorhoa","Leach's storm-petrel",52124,"Aves","Procellariiformes","Hydrobatidae","Oceanodroma","2023-07-13","Illumina HiSeq",195584
+"GCA_013397025.1","Oceanodroma tethys","Wedge-rumped storm-petrel",79633,"Aves","Procellariiformes","Hydrobatidae","Oceanodroma","2020-07-10","Illumina HiSeq",54514
+"GCA_027942865.1","Odontesthes bonariensis","pejerrey",219752,"Actinopteri","Atheriniformes","Atherinopsidae","Odontesthes","2023-01-24","PacBio Sequel II HiFi",9831534
+"GCF_021184085.1","Oncorhynchus gorbuscha","pink salmon",8017,"Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","2021-12-15","Oxford Nanopore MinION; MGI; Illumina",1451475
+"GCF_023373465.1","Oncorhynchus keta","chum salmon",8018,"Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","2022-05-16","Oxford Nanopore MinION; Illumina HiSeq",2022835
+"GCF_002021735.2","Oncorhynchus kisutch","coho salmon",8019,"Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","2019-11-04","PacBio Sequel; Illumina HiSeq; PacBio RSII",1159298
+"GCF_013265735.2","Oncorhynchus mykiss","rainbow trout",8022,"Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","2020-09-23","PacBio Sequel; BioNano; Hi-C",15579713
+"GCF_006149115.2","Oncorhynchus nerka","sockeye salmon",8023,"Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","2019-06-07","Illumina HiSeq; PacBio Sequel",330763
+"GCF_018296145.1","Oncorhynchus tshawytscha","Chinook salmon",74940,"Actinopteri","Salmoniformes","Salmonidae","Oncorhynchus","2021-05-07","Oxford Nanopore MinION; PacBio Sequel",2884253
+"GCA_016806645.1","Ophiodon elongatus",NA,225387,"Actinopteri","Perciformes","Hexagrammidae","Ophiodon","2021-02-03","Illumina HiSeq; Oxford Nanopore MinION",1538303
+"GCA_024529925.1","Ophthalmolycus amberensis",NA,948067,"Actinopteri","Perciformes","Zoarcidae","Ophthalmolycus","2022-08-04","PacBio RSII",1004506
+"GCA_003416845.1","Oplegnathus fasciatus","barred knifejaw",163134,"Actinopteri","Centrarchiformes","Oplegnathidae","Oplegnathus","2018-08-22","Illumina HiSeq; Illumina NextSeq; PacBio RSII",29992
+"GCA_900660325.1","Opsanus beta","Gulf toadfish",95145,"Actinopteri","Batrachoidiformes","Batrachoididae","Opsanus","2019-06-19",NA,3062
+"GCF_937001465.1","Orcinus orca","killer whale",9733,"Mammalia","Cetartiodactyla","Delphinidae","Orcinus","2022-05-03",NA,45583382
+"GCA_900302275.1","Osmerus eperlanus","European smelt",29151,"Actinopteri","Osmeriformes","Osmeridae","Osmerus","2018-03-18",NA,4524
+"GCA_026413485.1","Osteogeneiosus militaris","soldier catfish",445392,"Actinopteri","Siluriformes","Ariidae","Osteogeneiosus","2022-11-27","Illumina",3467
+"GCA_029822955.1","Ostorhinchus angustatus","broadstriped cardinalfish",316355,"Actinopteri","Kurtiformes","Apogonidae","Ostorhynchus","2023-04-18","Illumina",2939
+"GCA_029814465.1","Ostorhinchus cyanosoma","yellowstriped cardinalfish",223981,"Actinopteri","Kurtiformes","Apogonidae","Ostorhynchus","2023-04-18","Illumina",5389
+"GCA_030068375.1","Ostorhinchus rueppellii","gobbleguts",1399764,"Actinopteri","Kurtiformes","Apogonidae","Apogon","2023-05-24","Illumina",6061
+"GCA_943590895.1","Pagetopsis macropterus",NA,36194,"Actinopteri","Perciformes","Channichthyidae","Pagetopsis","2022-06-10",NA,15552
+"GCA_002897255.1","Pagrus major","red seabream",143350,"Actinopteri","Eupercaria incertae sedis","Sparidae","Pagrus","2017-12-28","Hiseq2000",2822
+"GCA_000697985.1","Pampus argenteus","silver pomfret",206143,"Actinopteri","Perciformes","Stromateidae","Pampus","2014-06-03","Illumina HiSeq2000",1001
+"GCA_013401275.1","Pandion haliaetus","osprey",56262,"Aves","Accipitriformes","Pandionidae","Pandion","2020-07-10","Illumina HiSeq",23447
+"GCA_900302745.1","Parablennius parvicornis","rock-pool blenny",171872,"Actinopteri","Blenniiformes","Blenniidae","Parablennius","2018-03-19",NA,7343
+"GCF_001970005.1","Paralichthys olivaceus","Japanese flounder",8255,"Actinopteri","Pleuronectiformes","Paralichthyidae","Paralichthys","2017-01-24","Illumina HiSeq",36690
+"GCA_016785265.1","Paraplagusia blochii","Bloch's tonguesole",366904,"Actinopteri","Pleuronectiformes","Cynoglossidae","Paraplagusia","2021-02-01","Illumina HiSeq 4000",37510
+"GCA_900302295.1","Parasudis fraserbrunneri",NA,1784818,"Actinopteri","Aulopiformes","Chlorophthalmidae","Parasudis","2018-03-21",NA,4177
+"GCA_013400755.1","Pelecanoides urinatrix",NA,37079,"Aves","Procellariiformes","Pelecanoididae","Pelecanoides","2020-07-10","Illumina HiSeq",93910
+"GCF_000687375.1","Pelecanus crispus","Dalmatian pelican",36300,"Aves","Pelecaniformes","Pelecanidae","Pelecanus","2014-05-09","Illumina HiSeq",21679
+"GCA_000787095.1","Periophthalmodon schlosseri","giant mudskipper",1365757,"Actinopteri","Gobiiformes","Gobiidae","Periophthalmodon","2014-12-02","Hiseq 2000",16946
+"GCA_019594935.1","Periophthalmus modestus","shuttles hoppfish",146921,"Actinopteri","Gobiiformes","Gobiidae","Periophthalmus","2021-08-13","PacBio Sequel; Illumina HiSeq",576039
+"GCF_010993605.1","Petromyzon marinus","sea lamprey",7757,"Petromyzonti","Petromyzontiformes","Petromyzontidae","Petromyzon","2020-02-24","PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",2540784
+"GCF_000687285.1","Phaethon lepturus","White-tailed tropicbird",97097,"Aves","Pelecaniformes","Phaethontidae","Phaethon","2014-05-08","Illumina HiSeq",22941
+"GCA_013399535.1","Phaetusa simplex","large-billed tern",297813,"Aves","Charadriiformes","Laridae","Phaetusa","2020-07-10","Illumina HiSeq",16901
+"GCA_949628215.1","Phalacrocorax aristotelis","European shag",126867,"Aves","Pelecaniformes","Phalacrocoracidae","Phalacrocorax","2023-04-08","PacBio,Arima2",11420000
+"GCA_002173455.1","Phalacrocorax auritus","double-crested cormorant",56069,"Aves","Pelecaniformes","Phalacrocoracidae","Phalacrocorax","2017-06-06","Illumina HiSeq",97559
+"GCA_002174335.1","Phalacrocorax brasilianus","Neotropic cormorant",37046,"Aves","Pelecaniformes","Phalacrocoracidae","Phalacrocorax","2017-06-06","Illumina HiSeq",35201
+"GCF_000708925.1","Phalacrocorax carbo","great cormorant",9209,"Aves","Pelecaniformes","Phalacrocoracidae","Phalacrocorax","2014-06-17","Illumina HiSeq",17343
+"GCA_002173475.1","Phalacrocorax harrisi","Galapagos flightless cormorant",473964,"Aves","Pelecaniformes","Phalacrocoracidae","Phalacrocorax","2017-06-06","Illumina HiSeq",100243
+"GCA_002173435.1","Phalacrocorax pelagicus","Pelagic cormorant",2723871,"Aves","Pelecaniformes","Phalacrocoracidae","Phalacrocorax","2017-06-06","Illumina HiSeq",67731
+"GCF_004348235.1","Phoca vitulina","harbor seal",9720,"Mammalia","Carnivora","Phocidae","Phoca","2019-02-11","Illumina HiSeq",283887
+"GCA_004363495.1","Phocoena phocoena","harbor porpoise",9742,"Mammalia","Cetartiodactyla","Phocoenidae","Phocoena","2019-03-22","Illumina HiSeq",89111
+"GCF_008692025.1","Phocoena sinus","vaquita",42100,"Mammalia","Cetartiodactyla","Phocoenidae","Phocoena","2019-09-26","PacBio Sequel I; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLE-1",20218762
+"GCA_014363385.1","Phoebastria albatrus",NA,54023,"Aves","Procellariiformes","Diomedeidae","Phoebastria","2020-08-22","Illumina Novaseq6000",43134
+"GCA_020510985.1","Pholidichthys leucotaenia",NA,390368,"Actinopteri","Cichliformes","Pholidichthyidae","Pholidichthys","2021-10-15","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",5867598
+"GCA_910591455.2","Pholis gunnellus","rock gunnel",56726,"Actinopteri","Perciformes","Pholidae","Pholis","2021-11-18",NA,3519450
+"GCA_900302315.1","Phycis blennoides",NA,163115,"Actinopteri","Gadiformes","Phycidae","Phycis","2018-03-18",NA,4532
+"GCA_027123565.1","Phycis chesteri",NA,348446,"Actinopteri","Gadiformes","Phycidae","Phycis","2022-12-20","Illumina",2329
+"GCA_900302335.1","Phycis phycis",NA,349666,"Actinopteri","Gadiformes","Phycidae","Phycis","2018-03-18",NA,3458
+"GCA_024500275.1","Phycodurus eques","leafy seadragon",693459,"Actinopteri","Syngnathiformes","Syngnathidae","Phycodurus","2022-08-03","PacBio Sequel",16851628
+"GCA_019802545.1","Phyllopteryx taeniolatus","common seadragon",161469,"Actinopteri","Syngnathiformes","Syngnathidae","Phyllopteryx","2021-09-09","PacBio Sequel; Illumina HiSeq",12818866
+"GCF_002837175.3","Physeter catodon","sperm whale",9755,"Mammalia","Cetartiodactyla","Physeteridae","Physeter","2023-02-28","BGISEQ-500",42877
+"GCA_005024645.1","Planiliza haematocheilus","so-iny mullet",370040,"Actinopteri","Mugiliformes","Mugilidae","Mugil","2019-05-01","PacBio Sequel; Illumina HiSeq",3973280
+"GCA_949316205.1","Platichthys flesus","European flounder",8260,"Actinopteri","Pleuronectiformes","Pleuronectidae","Platichthys","2023-04-05","PacBio,Arima2",2078972
+"GCA_016801935.1","Platichthys stellatus","starry flounder",195632,"Actinopteri","Pleuronectiformes","Pleuronectidae","Platichthys","2021-02-04","Illumina HiSeq 4000",33203
+"GCA_019972215.1","Plecoglossus altivelis","ayu",61084,"Actinopteri","Osmeriformes","Plecoglossidae","Plecoglossus","2021-07-20","HiSeq2000; PacBio RSII",113526
+"GCF_008729295.1","Plectropomus leopardus","leopard coralgrouper",160734,"Actinopteri","Perciformes","Serranidae","Plectropomus","2020-05-27","PacBio",897070
+"GCF_947347685.1","Pleuronectes platessa","European plaice",8262,"Actinopteri","Pleuronectiformes","Pleuronectidae","Pleuronectes","2022-11-29","PacBio,Arima2",1477112
+"GCA_027576555.1","Plicofollis layardi",NA,591282,"Actinopteri","Siluriformes","Ariidae","Arius","2023-01-06","Illumina",2295
+"GCA_027576675.1","Plicofollis nella","smooth-headed catfish",435004,"Actinopteri","Siluriformes","Ariidae","Plicofollis","2023-01-06","Illumina",2119
+"GCA_027576095.1","Plicofollis tonggol","roughback sea catfish",591283,"Actinopteri","Siluriformes","Ariidae","Plicofollis","2023-01-06","Illumina",2028
+"GCA_024760905.1","Plotosus lineatus","striped eel catfish",243562,"Actinopteri","Siluriformes","Plotosidae","Plotosus","2022-08-29","Oxford Nanopore GridION; PacBio Sequel",36883020
+"GCA_017639485.1","Pluvialis apricaria",NA,670352,"Aves","Charadriiformes","Charadriidae","Pluvialis","2021-03-30","PacBio Sequel II CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",15203797
+"GCA_013400795.1","Pluvianellus socialis","magellanic plover",227228,"Aves","Charadriiformes","Pluvianellidae","Pluvianellus","2020-07-10","Illumina HiSeq",48629
+"GCA_000699545.1","Podiceps cristatus","great crested grebe",345573,"Aves","Podicipediformes","Podicipedidae","Podiceps","2014-06-11","Illumina HiSeq",17412
+"GCA_013399565.1","Podilymbus podiceps",NA,9252,"Aves","Podicipediformes","Podicipedidae","Podilymbus","2020-07-10","Illumina HiSeq",35810
+"GCF_001443285.1","Poecilia latipinna","sailfin molly",48699,"Actinopteri","Cyprinodontiformes","Poeciliidae","Poecilia","2015-11-13","Illumina",33278
+"GCA_028583405.1","Pogonophryne albipinna",NA,1090488,"Actinopteri","Perciformes","Artedidraconidae","Pogonophryne","2023-02-10","PacBio Sequel; Illumina NovaSeq",962244
+"GCA_949987615.1","Pollachius pollachius","pollack",185739,"Actinopteri","Gadiformes","Gadidae","Pollachius","2023-05-03","PacBio,Arima2",606672
+"GCA_900312635.1","Pollachius virens","saithe",8060,"Actinopteri","Gadiformes","Gadidae","Pollachius","2018-03-18",NA,3457
+"GCA_016801845.1","Polydactylus sextarius","blackspot threadfin",435218,"Actinopteri","Carangaria incertae sedis","Polynemidae","Polydactylus","2021-02-04","Oxford Nanopore GridION",18418211
+"GCA_900302305.1","Polymixia japonica","silver eye",81385,"Actinopteri","Polymixiiformes","Polymixiidae","Polymixia","2018-03-19",NA,5803
+"GCA_029875035.1","Pomatoschistus microps","common goby",225753,"Actinopteri","Gobiiformes","Gobiidae","Pomatoschistus","2023-04-26","Illumina NovaSeq",1850
+"GCA_011754075.1","Pontoporia blainvillei","franciscana",48723,"Mammalia","Cetartiodactyla","Pontoporiidae","Pontoporia","2020-03-25","Illumina HiSeq",5888
+"GCF_009764475.1","Pristis pectinata","smalltooth sawfish",685728,"Elasmobranchii","Rhinopristiformes","Pristidae","Pristis","2019-12-19","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",17009522
+"GCA_028641955.1","Protonibea diacanthus",NA,335060,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Protonibea","2023-02-22","Oxford Nanopore GridION; BGI-Seq 500",4776643
+"GCA_030340685.1","Protosalanx chinensis",NA,240822,"Actinopteri","Osmeriformes","Salangidae","Protosalanx","2023-06-28","PacBio Sequel",527449
+"GCA_016785225.1","Psettodes erumei","Indian spiny turbot",195640,"Actinopteri","Pleuronectiformes","Psettodidae","Psettodes","2021-02-01","Oxford Nanopore GridION",2454095
+"GCA_029823295.1","Pseudamia nigra",NA,2943275,"Actinopteri","Kurtiformes","Apogonidae","Pseudamia","2023-04-18","Illumina",6114
+"GCF_902827115.1","Pseudochaenichthys georgianus","South Georgia icefish",52239,"Actinopteri","Perciformes","Channichthyidae","Pseudochaenichthys","2020-04-15",NA,661283
+"GCA_902827115.2","Pseudochaenichthys georgianus","South Georgia icefish",52239,"Actinopteri","Perciformes","Channichthyidae","Pseudochaenichthys","2022-11-04","PacBio,Illumina,Dovetail",656910
+"GCA_900323345.1","Pseudochromis fuscus","brown dottyback",280673,"Actinopteri","Ovalentaria incertae sedis","Pseudochromidae","Pseudochromis","2018-03-26",NA,12029
+"GCF_029220125.1","Pseudoliparis swirei",NA,2059687,"Actinopteri","Perciformes","Liparidae","Pseudoliparis","2023-03-16","Oxford Nanopore GridION",4219354
+"GCA_016785235.1","Pseudorhombus dupliciocellatus","ocellated flounder",367197,"Actinopteri","Pleuronectiformes","Paralichthyidae","Pseudorhombus","2021-02-01","Illumina HiSeq 4000",538669
+"GCA_947000775.1","Pterois miles","devil firefish",185883,"Actinopteri","Perciformes","Scorpaenidae","Pterois","2023-01-12","""MinION,ILLUMINA""",14490642
+"GCA_023333565.1","Puffinus mauretanicus",NA,48681,"Aves","Procellariiformes","Procellariidae","Puffinus","2022-05-11","Illumina HiSeq; Oxford Nanopore MinION",2082814
+"GCF_902500615.1","Pungitius pungitius","ninespine stickleback",134920,"Actinopteri","Perciformes","Gasterosteidae","Pungitius","2020-10-12",NA,2775277
+"GCF_000699105.1","Pygoscelis adeliae","Adelie penguin",9238,"Aves","Sphenisciformes","Spheniscidae","Pygoscelis","2014-06-06","Illumina HiSeq",22195
+"GCA_010078415.1","Pygoscelis antarcticus","chinstrap penguin",79643,"Aves","Sphenisciformes","Spheniscidae","Pygoscelis","2020-01-31","BGISEQ",136952
+"GCA_030512405.1","Pygoscelis papua","Gentoo penguin",30457,"Aves","Sphenisciformes","Spheniscidae","Pygoscelis","2023-07-20","BGISEQ",101743
+"GCA_024605115.1","Rastrelliger brachysoma","short mackerel",334878,"Actinopteri","Scombriformes","Scombridae","Rastrelliger","2022-08-09","Illumina NovaSeq",3816
+"GCA_024605255.1","Rastrelliger kanagurta","Indian mackerel",70446,"Actinopteri","Scombriformes","Scombridae","Rastrelliger","2022-08-09","Illumina NovaSeq",1033
+"GCA_004023745.1","Recurvirostra avosetta","Pied Avocet",171275,"Aves","Charadriiformes","Recurvirostridae","Recurvirostra","2019-01-15","Illumina NextSeq",10462
+"GCA_900302585.1","Regalecus glesne","king of herrings",81389,"Actinopteri","Lampriformes","Regalecidae","Regalecus","2018-03-20",NA,6781
+"GCA_006182925.3","Reinhardtius hippoglossoides","Greenland flounder",111784,"Actinopteri","Pleuronectiformes","Pleuronectidae","Reinhardtius","2021-05-25","PacBio Sequel",3108829
+"GCA_030265395.1","Rhina ancylostoma",NA,195328,"Elasmobranchii","Rhinopristiformes","Rhinobatidae","Rhina","2023-06-13","Illumina",4392
+"GCF_021869965.1","Rhincodon typus","whale shark",259920,"Elasmobranchii","Orectolobiformes","Rhincodontidae","Rhincodon","2022-02-03","Illumina HiSeq",48454
+"GCF_028500815.1","Rissa tridactyla","black-legged kittiwake",75485,"Aves","Charadriiformes","Laridae","Larus","2023-02-09","PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2",15653959
+"GCA_900302605.1","Rondeletia loricata","redmouth whalefish",88713,"Actinopteri","Beryciformes","Rondeletiidae","Rondeletia","2018-03-19",NA,5112
+"GCA_013400035.1","Rynchops niger","black skimmer",227184,"Aves","Charadriiformes","Rynchopidae","Rynchops","2020-07-10","Illumina HiSeq",57549
+"GCF_902148845.1","Salarias fasciatus","jewelled blenny",181472,"Actinopteri","Blenniiformes","Blenniidae","Salarias","2019-07-03",NA,2597836
+"GCF_905237065.1","Salmo salar","Atlantic salmon",8030,"Actinopteri","Salmoniformes","Salmonidae","Salmo","2021-04-21",NA,28058890
+"GCF_901001165.1","Salmo trutta","river trout",8032,"Actinopteri","Salmoniformes","Salmonidae","Salmo","2019-06-02",NA,1703178
+"GCA_901001165.2","Salmo trutta","river trout",8032,"Actinopteri","Salmoniformes","Salmonidae","Salmo","2021-04-24",NA,1703178
+"GCF_029448725.1","Salvelinus fontinalis","brook trout",8038,"Actinopteri","Salmoniformes","Salmonidae","Salvelinus","2023-03-28","PacBio Sequel",1231776
+"GCA_003604335.1","Sardina pilchardus","sardine",27697,"Actinopteri","Clupeiformes","Clupeidae","Sardina","2018-10-01","Illumina HiSeq",10878
+"GCA_030264415.1","Sardinella fimbriata","fringescale sardinella",96887,"Actinopteri","Clupeiformes","Clupeidae","Sardinella","2023-06-13","Illumina",1695
+"GCA_030264355.1","Sardinella lemuru","Bali sardinella",392307,"Actinopteri","Clupeiformes","Clupeidae","Sardinella","2023-06-13","Illumina",1407
+"GCA_027497455.1","Sardinella longiceps","Indian oil sardine",96888,"Actinopteri","Clupeiformes","Clupeidae","Sardinella","2022-12-29","Oxford Nanopore PromethION; Illumina HiSeq",153497
+"GCA_000787155.1","Scartelaos histophorus","walking goby",166764,"Actinopteri","Gobiiformes","Gobiidae","Scartelaos","2014-12-02","Hiseq 2000",8806
+"GCF_020382885.2","Scatophagus argus",NA,75038,"Actinopteri","Acanthuriformes","Scatophagidae","Scatophagus","2021-10-13","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",17189422
+"GCA_026153275.1","Sciades herzbergii","Pemecou sea catfish",419340,"Actinopteri","Siluriformes","Ariidae","Sciades","2022-11-12","Illumina",2466
+"GCA_027576895.1","Sciades mastersi","Master's catfish",591286,"Actinopteri","Siluriformes","Ariidae","Sciades","2023-01-06","Illumina",2202
+"GCA_027576175.1","Sciades proops","crucifix sea catfish",419343,"Actinopteri","Siluriformes","Ariidae","Sciades","2023-01-06","Illumina",2721
+"GCA_027575605.1","Sciades troschelii","Chili sea catfish",287710,"Actinopteri","Siluriformes","Ariidae","Sciades","2023-01-06","Illumina",2341
+"GCA_014183145.1","Sciaenops ocellatus","red drum",76340,"Actinopteri","Eupercaria incertae sedis","Sciaenidae","Sciaenops","2020-08-14","Illumina HiSeq; BGI-Seq 500",151930
+"GCA_021039105.1","Scomber colias","Atlantic chub mackerel",338315,"Actinopteri","Scombriformes","Scombridae","Scomber","2021-12-03","PacBio Sequel Hifi",3315783
+"GCF_027409825.1","Scomber japonicus","chub mackerel",13676,"Actinopteri","Scombriformes","Scombridae","Scomber","2022-12-28","PacBio Sequel II HiFi; Arima Hi-C v2",4898551
+"GCF_022379125.1","Scophthalmus maximus","turbot",52904,"Actinopteri","Pleuronectiformes","Scophthalmidae","Scophthalmus","2022-02-24","PacBio Sequel",25762658
+"GCF_902713615.1","Scyliorhinus canicula","smaller spotted catshark",7830,"Elasmobranchii","Carcharhiniformes","Scyliorhinidae","Scyliorhinus","2020-12-17",NA,1862211
+"GCA_902713615.2","Scyliorhinus canicula","smaller spotted catshark",7830,"Elasmobranchii","Carcharhiniformes","Scyliorhinidae","Scyliorhinus","2021-01-28",NA,1862211
+"GCA_003427355.1","Scyliorhinus torazame","cloudy catshark",75743,"Elasmobranchii","Carcharhiniformes","Scyliorhinidae","Scyliorhinus","2018-08-02","Illumina HiSeq 1500, Illumina MiSeq",7146
+"GCA_916700875.1","Sebastes aleutianus","rougheye rockfish",214485,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-09-30",NA,5849361
+"GCA_916700825.1","Sebastes alutus","Pacific ocean perch",72055,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,29842
+"GCA_916700955.1","Sebastes atrovirens","kelp rockfish",72056,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,63939
+"GCA_916700975.1","Sebastes auriculatus","brown rockfish",72057,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,58160
+"GCA_916700905.1","Sebastes aurora","aurora rockfish",72058,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,54974
+"GCA_916700865.1","Sebastes babcocki","redbanded rockfish",72059,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,46073
+"GCA_916700835.1","Sebastes baramenuke",NA,214491,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,41631
+"GCA_916700985.1","Sebastes borealis","shortraker rockfish",394687,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,9548
+"GCA_916700855.1","Sebastes carnatus","gopher rockfish",72062,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,37523
+"GCA_916700845.1","Sebastes caurinus","copper rockfish",72063,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,33800
+"GCA_916700745.1","Sebastes cheni",NA,1738870,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,78191
+"GCA_916700915.1","Sebastes chlorostictus","greenspotted rockfish",72064,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,67010
+"GCA_916700805.1","Sebastes ciliatus","dusky rockfish",72065,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,38302
+"GCA_916700895.1","Sebastes constellatus","starry rockfish",72066,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,67714
+"GCA_916700755.1","Sebastes crameri","darkblotched rockfish",72067,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,66819
+"GCA_916700725.1","Sebastes dallii","calico rockfish",394690,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,73964
+"GCA_916700945.1","Sebastes diaconus","deacon rockfish",2603974,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,78869
+"GCA_916700885.1","Sebastes diploproa","splitnose rockfish",72069,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,45585
+"GCA_916700925.1","Sebastes elongatus","greenstriped rockfish",72070,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,32065
+"GCA_916700965.1","Sebastes ensifer","swordspine rockfish",72072,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,35845
+"GCA_916700775.2","Sebastes entomelas","widow rockfish",72073,"Actinopteri","Perciformes","Sebastidae","Sebastes","2022-09-20",NA,7502063
+"GCA_916700705.1","Sebastes exsul","buccaneer rockfish",72075,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,44439
+"GCA_916700765.1","Sebastes fasciatus","Acadian redfish",394691,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,47978
+"GCA_916700785.1","Sebastes flavidus","yellowtain rockfish",72076,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,60413
+"GCA_916700795.1","Sebastes glaucus",NA,201702,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,31093
+"GCA_916700735.1","Sebastes goodei","chilipepper",72078,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,26613
+"GCA_916700695.1","Sebastes helvomaculatus","rosethorn rockfish",72079,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-12",NA,44384
+"GCA_916701215.1","Sebastes hopkinsi","squarespot rockfish",72080,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,73192
+"GCA_916701285.1","Sebastes hubbsi",NA,201703,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,61026
+"GCA_916701085.1","Sebastes inermis","black rockfish",160818,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,74842
+"GCA_916701015.1","Sebastes iracundus",NA,214493,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,31449
+"GCA_916701335.1","Sebastes itinus","willow rockfish",1344804,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,44916
+"GCA_916701295.1","Sebastes jordani","shortbelly rockfish",72081,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,51098
+"GCA_916701105.1","Sebastes joyneri",NA,160817,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,70641
+"GCA_916701135.1","Sebastes kiyomatsui",NA,394692,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,47551
+"GCA_916701025.1","Sebastes koreanus",NA,290523,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,34321
+"GCA_916701195.1","Sebastes levis","cowcod",72083,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,50521
+"GCA_916701265.1","Sebastes maliger","quillback rockfish",72084,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,55147
+"GCA_916701035.1","Sebastes matsubarae",NA,201704,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,39222
+"GCA_916701325.1","Sebastes melanops","black rockfish",72085,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,29157
+"GCA_916701165.1","Sebastes melanostomus","blackgill rockfish",72086,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,51225
+"GCA_916701205.1","Sebastes mentella","deepwater redfish",394696,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,45706
+"GCA_916701275.1","Sebastes miniatus","vermillion rockfish",72087,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-09-30",NA,8557142
+"GCA_916701305.1","Sebastes minor",NA,214483,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,45872
+"GCA_916701315.1","Sebastes moseri","whitespeckled rockfish",394697,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,83069
+"GCA_916701245.1","Sebastes mystinus","blue rockfish",72088,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,77435
+"GCA_916701055.1","Sebastes nebulosus","China rockfish",394698,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,47149
+"GCA_000475235.3","Sebastes nigrocinctus","tiger rockfish",72089,"Actinopteri","Perciformes","Sebastidae","Sebastes","2016-12-20","Illumina HiSeq",13471
+"GCA_916701345.1","Sebastes nivosus",NA,290526,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,60486
+"GCA_900302655.1","Sebastes norvegicus","golden redfish",394699,"Actinopteri","Perciformes","Sebastidae","Sebastes","2018-03-21",NA,9467
+"GCA_916701225.1","Sebastes nudus","ogon-murasoi",1617787,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,64957
+"GCA_916701095.1","Sebastes oblongus",NA,201705,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,62132
+"GCA_916701125.1","Sebastes oculatus","Patagonian redfish",72091,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,62781
+"GCA_916701075.1","Sebastes pachycephalus",NA,201706,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,67310
+"GCA_916701045.1","Sebastes paucispinis","bocaccio",72093,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,48330
+"GCA_916701065.2","Sebastes pinniger","canary rockfish",72094,"Actinopteri","Perciformes","Sebastidae","Sebastes","2022-09-20",NA,10082049
+"GCA_916701505.1","Sebastes polyspinis","northern rockfish",394702,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,37656
+"GCA_916701495.1","Sebastes proriger","redstripe rockfish",394703,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-07",NA,29393
+"GCA_916701435.1","Sebastes rastrelliger","grass rockfish",72095,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,87095
+"GCA_916701525.1","Sebastes reedi","yellowmouth rockfish",394704,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,84139
+"GCA_916701555.1","Sebastes rosaceus","rosy rockfish",72096,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,2984042
+"GCA_916701545.1","Sebastes rosenblatti","greenblotched rockfish",72097,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,33796
+"GCA_916701515.1","Sebastes ruberrimus","yelloweye rockfish",72098,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,24295
+"GCA_916701605.1","Sebastes rubrivinctus","flag rockfish",72099,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,85282
+"GCA_916701375.1","Sebastes saxicola","stripetail rockfish",72101,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,57724
+"GCA_014673565.1","Sebastes schlegelii","Schlegel's black rockfish",214486,"Actinopteri","Perciformes","Sebastidae","Sebastes","2020-09-21","PacBio",5473395
+"GCA_916701475.1","Sebastes scythropus",NA,173978,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-06",NA,60150
+"GCA_916701385.1","Sebastes semicinctus","halfbanded rockfish",320568,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,67673
+"GCA_916701455.1","Sebastes serriceps","treefish",201707,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,54830
+"GCA_916701425.1","Sebastes steindachneri",NA,201708,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,19216
+"GCA_916701585.1","Sebastes taczanowskii",NA,201709,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,34860
+"GCA_916701625.1","Sebastes thompsoni",NA,105747,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,51203
+"GCA_916701465.1","Sebastes trivittatus",NA,214487,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,37664
+"GCF_015220745.1","Sebastes umbrosus","honeycomb rockfish",72105,"Actinopteri","Perciformes","Sebastidae","Sebastes","2020-11-03","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",11445908
+"GCA_916701445.1","Sebastes variabilis","dusky rockfish",394707,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,48464
+"GCA_916701405.1","Sebastes variegatus","harlequin rockfish",72106,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,23909
+"GCA_916701615.1","Sebastes vulpes",NA,201710,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,10148
+"GCA_916701595.1","Sebastes wilsoni","pygmy rockfish",72107,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-11-13",NA,47037
+"GCA_916701415.1","Sebastes zacentrus","sharpchin rockfish",72108,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,32412
+"GCA_916701635.1","Sebastes zonatus",NA,214489,"Actinopteri","Perciformes","Sebastidae","Sebastes","2021-10-09",NA,15546
+"GCA_916701655.1","Sebastiscus albofasciatus",NA,72109,"Actinopteri","Perciformes","Sebastidae","Sebastiscus","2021-10-09",NA,41071
+"GCA_916701665.1","Sebastiscus tertius",NA,1472224,"Actinopteri","Perciformes","Sebastidae","Sebastiscus","2021-11-13",NA,42036
+"GCA_916701645.2","Sebastolobus alascanus",NA,72110,"Actinopteri","Perciformes","Sebastidae","Sebastolobus","2022-09-15",NA,2047198
+"GCA_916701675.1","Sebastolobus altivelis",NA,8110,"Actinopteri","Perciformes","Sebastidae","Sebastolobus","2021-10-09",NA,29583
+"GCA_900303245.1","Selene dorsalis","African moonfish",179366,"Actinopteri","Carangiformes","Carangidae","Selene","2018-03-19",NA,11209
+"GCA_022749685.1","Semicossyphus pulcher",NA,241346,"Actinopteri","Eupercaria incertae sedis","Labridae","Semicossyphus","2022-03-29","PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq",31948211
+"GCF_021018895.1","Seriola aureovittata",NA,2871759,"Actinopteri","Carangiformes","Carangidae","Seriola","2021-12-02","PacBio Sequel",17994190
+"GCF_002260705.1","Seriola dumerili","greater amberjack",41447,"Actinopteri","Carangiformes","Carangidae","Seriola","2017-08-03","Hiseq2500; PacBio RSII",249755
+"GCA_002217815.1","Seriola quinqueradiata","Japanese amberjack",8161,"Actinopteri","Carangiformes","Carangidae","Seriola","2017-07-05","Hiseq2500, PacBio RSII",872227
+"GCA_002994505.1","Seriola rivoliana","Almaco jack",173321,"Actinopteri","Carangiformes","Carangidae","Seriola","2018-03-12","PacBio; Illumina HiSeq",740108
+"GCA_903364295.1","Serranus cabrilla","comber",94953,"Actinopteri","Perciformes","Serranidae","Serranus","2020-06-05",NA,21564
+"GCA_030347295.1","Setipinna tenuifilis","common hairfin anchovy",762045,"Actinopteri","Clupeiformes","Engraulidae","Setipinna","2023-06-27","PacBio Sequel",1427689
+"GCA_029814505.1","Siphamia roseigaster","pinkbreast siphonfish",1431494,"Actinopteri","Kurtiformes","Apogonidae","Siphamia","2023-04-18","Illumina",2882
+"GCA_020466265.1","Siphamia tubifer","tuber cardinalfish",1536898,"Actinopteri","Kurtiformes","Apogonidae","Siphamia","2021-10-15","PacBio HiFi",2340513
+"GCF_019176455.1","Solea senegalensis","Senegalese sole",28829,"Actinopteri","Pleuronectiformes","Soleidae","Solea","2021-07-09","Oxford Nanopore MinION",1188264
+"GCA_958295425.1","Solea solea","common sole",90069,"Actinopteri","Pleuronectiformes","Soleidae","Solea","2023-07-06","PacBio,Arima2",2587297
+"GCA_951416345.1","Somateria mollissima","common eider",76058,"Aves","Anseriformes","Anatidae","Somateria","2023-06-27","PACBIO_SMART, ILLUMINA",9245871
+"GCA_007760645.1","Sousa chinensis","Indo-pacific humpbacked dolphin",103600,"Mammalia","Cetartiodactyla","Delphinidae","Sousa","2019-07-31","Illumina HiSeq",113766
+"GCA_030272975.1","Sparidentex hasta","sobaity seabream",119750,"Actinopteri","Eupercaria incertae sedis","Sparidae","Sparidentex","2023-06-13","BGISEQ-500",69163
+"GCF_900880675.1","Sparus aurata","gilthead seabream",8175,"Actinopteri","Eupercaria incertae sedis","Sparidae","Sparus","2019-07-30",NA,2862625
+"GCA_900880675.2","Sparus aurata","gilthead seabream",8175,"Actinopteri","Eupercaria incertae sedis","Sparidae","Sparus","2021-04-24",NA,2862625
+"GCF_902148855.1","Sphaeramia orbicularis","orbiculate cardinalfish",375764,"Actinopteri","Kurtiformes","Apogonidae","Apogon","2019-07-03",NA,2360121
+"GCA_010077935.1","Spheniscus demersus","jackass penguin",92683,"Aves","Sphenisciformes","Spheniscidae","Spheniscus","2020-01-31","BGISEQ",109372
+"GCA_027474245.1","Spheniscus humboldti","Humboldt's penguin",9240,"Aves","Sphenisciformes","Spheniscidae","Spheniscus","2022-12-28","PacBio Sequel II HiFi",13936613
+"GCA_010076225.1","Spheniscus magellanicus","Magellanic penguin",37081,"Aves","Sphenisciformes","Spheniscidae","Spheniscus","2020-01-31","Illumina HiSeq",101702
+"GCA_003264655.1","Spheniscus mendiculus","Galapagos penguin",156760,"Aves","Sphenisciformes","Spheniscidae","Spheniscus","2018-06-25","SOLiD",22339
+"GCA_024679065.1","Sphyrna mokarran","great hammerhead",195334,"Elasmobranchii","Carcharhiniformes","Sphyrnidae","Sphyrna","2022-08-15","Illumina NextSeq; PacBio Sequel",3966553
+"GCA_900302685.1","Spondyliosoma cantharus","black seabream",50595,"Actinopteri","Eupercaria incertae sedis","Sparidae","Spondyliosoma","2018-03-21",NA,11633
+"GCA_030390025.1","Squalus acanthias","spiny dogfish",7797,"Elasmobranchii","Squaliformes","Squalidae","Squalus","2023-07-03","PacBio Sequel",1715360
+"GCA_026260435.1","Squalus suckleyi","Puget Sound dogfish",7798,"Elasmobranchii","Squaliformes","Squalidae","Squalus","2022-11-21","Illumina NovaSeq; PacBio Sequel; Illumina HiSeq",127514
+"GCF_000690725.1","Stegastes partitus","bicolor damselfish",144197,"Actinopteri","Ovalentaria incertae sedis","Pomacentridae","Stegastes","2014-05-13","Illumina",43010
+"GCF_022316705.1","Stegostoma fasciatum",NA,378071,"Elasmobranchii","Orectolobiformes","Stegostomatidae","Stegostoma","2022-02-17","Illumina HiSeq",56707
+"GCA_951394435.1","Stenella coeruleoalba","striped dolphin",9737,"Mammalia","Cetartiodactyla","Delphinidae","Stenella","2023-06-16","PacBio,Arima2",3590204
+"GCA_028646385.1","Steno bredanensis","rough-toothed dolphin",46167,"Mammalia","Cetartiodactyla","Delphinidae","Steno","2023-02-16","Illumina NovaSeq 6000",59977
+"GCA_013396915.1","Stercorarius parasiticus",NA,54059,"Aves","Charadriiformes","Stercorariidae","Stercorarius","2020-07-10","Illumina HiSeq",107045
+"GCA_009819605.1","Sterna hirundo","Common tern",108405,"Aves","Charadriiformes","Laridae","Sterna","2019-12-31","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",22002498
+"GCA_900312615.1","Stylephorus chordatus","tube-eye",409996,"Actinopteri","Stylephoriformes","Stylephoridae","Stylephorus","2018-03-20",NA,3373
+"GCA_013389905.1","Sula dactylatra","masked booby",56068,"Aves","Pelecaniformes","Sulidae","Sula","2020-07-06","Illumina HiSeq",38906
+"GCA_947650265.1","Symphodus melops","corkwing wrasse",171736,"Actinopteri","Eupercaria incertae sedis","Labridae","Symphodus","2022-12-21","PacBio,Arima2",1186940
+"GCA_029721515.1","Synanceia verrucosa","stonefish",51996,"Actinopteri","Perciformes","Synanceiidae","Synanceja","2023-04-18","Oxford Nanopore",12009665
+"GCA_029718625.1","Synaphobranchus kaupii","Kaup's arrowtooth eel",118154,"Actinopteri","Anguilliformes","Synaphobranchidae","Synaphobranchus","2023-04-14","PacBio Sequel",519789
+"GCF_027744825.2","Synchiropus splendidus","mandarinfish",270530,"Actinopteri","Callionymiformes","Callionymidae","Synchiropus","2023-01-13","Pacbio HiFi; Phase Genomics Hi-C",26259131
+"GCA_019802595.1","Syngnathoides biaculeatus","alligator pipefish",300417,"Actinopteri","Syngnathiformes","Syngnathidae","Syngnathoides","2021-09-09","PacBio Sequel; Illumina HiSeq",18018000
+"GCF_901709675.1","Syngnathus acus","greater pipefish",161584,"Actinopteri","Syngnathiformes","Syngnathidae","Syngnathus","2020-07-31",NA,11959915
+"GCA_010014945.2","Syngnathus floridae","dusky pipefish",161585,"Actinopteri","Syngnathiformes","Syngnathidae","Syngnathus","2022-11-14","Illumina",4199
+"GCA_901007895.1","Syngnathus rostellatus","Nilsson's pipefish",161589,"Actinopteri","Syngnathiformes","Syngnathidae","Syngnathus","2020-04-15",NA,14947
+"GCF_024217435.1","Syngnathus scovelli","Gulf pipefish",161590,"Actinopteri","Syngnathiformes","Syngnathidae","Syngnathus","2022-07-12","Pacbio Hi-Fi; Phase Genomics HiC",15551623
+"GCA_024217435.4","Syngnathus scovelli","Gulf pipefish",161590,"Actinopteri","Syngnathiformes","Syngnathidae","Syngnathus","2022-10-17","Pacbio Hi-Fi; Phase Genomics HiC",15551623
+"GCA_901007915.1","Syngnathus typhle","broad-nosed pipefish",161592,"Actinopteri","Syngnathiformes","Syngnathidae","Syngnathus","2020-04-15",NA,25809
+"GCA_004026145.2","Takifugu bimaculatus",NA,433685,"Actinopteri","Tetraodontiformes","Tetraodontidae","Takifugu","2019-06-21","PacBio; Hi-C; Illumina HiSeq",1312995
+"GCF_003711565.1","Takifugu flavidus","sansaifugu",433684,"Actinopteri","Tetraodontiformes","Tetraodontidae","Takifugu","2019-08-16","PacBio Sequel",4357567
+"GCA_027382335.1","Takifugu ocellatus",NA,433686,"Actinopteri","Tetraodontiformes","Tetraodontidae","Takifugu","2022-12-27","PacBio SequelI",11546956
+"GCF_901000725.2","Takifugu rubripes","torafugu",31033,"Actinopteri","Tetraodontiformes","Tetraodontidae","Takifugu","2019-06-05",NA,3136617
+"GCA_901000725.3","Takifugu rubripes","torafugu",31033,"Actinopteri","Tetraodontiformes","Tetraodontidae","Takifugu","2021-04-24",NA,3136617
+"GCA_910589615.1","Taurulus bubalis",NA,61643,"Actinopteri","Perciformes","Cottidae","Taurulus","2021-07-07",NA,13037006
+"GCA_020745685.1","Tautogolabrus adspersus","cunner",34787,"Actinopteri","Eupercaria incertae sedis","Labridae","Tautogolabrus","2021-11-05","PacBio Sequel II CLR; 10X Gemonics linked reads; Bionano Genomics DLS; Arima Genomics Hi-C v1",7919333
+"GCA_015244755.2","Tenualosa ilisha","Hilsa shad",373995,"Actinopteri","Clupeiformes","Clupeidae","Tenualosa","2020-11-05","PacBio; Illumina",2624235
+"GCA_028564955.1","Terapon puta","small-scaled terapon",1161363,"Actinopteri","Centrarchiformes","Terapontidae","Terapon","2023-02-09","Illumina",6877
+"GCA_013400895.1","Thalassarche chlororhynchos","Atlantic yellow-nosed albatross",54017,"Aves","Procellariiformes","Diomedeidae","Thalassarche","2020-07-10","Illumina HiSeq",23404
+"GCA_008086565.1","Thalassoma bifasciatum","bluehead",76338,"Actinopteri","Eupercaria incertae sedis","Labridae","Thalassoma","2019-08-02","Illumina HiSeq",122955
+"GCA_023658055.1","Thaleichthys pacificus","eulachon",240832,"Actinopteri","Osmeriformes","Osmeridae","Thaleichthys","2022-06-07","PacBio Sequel",928839
+"GCA_009823395.1","Thamnaconus septentrionalis",NA,435163,"Actinopteri","Tetraodontiformes","Monacanthidae","Thamnaconus","2020-01-02","Oxford Nanopore PromethION",22457894
+"GCF_914725855.1","Thunnus albacares","yellowfin tuna",8236,"Actinopteri","Scombriformes","Scombridae","Thunnus","2021-09-16",NA,26795544
+"GCF_910596095.1","Thunnus maccoyii","southern bluefin tuna",8240,"Actinopteri","Scombriformes","Scombridae","Thunnus","2021-07-07",NA,26803536
+"GCA_021601225.1","Thunnus orientalis","Pacific bluefin tuna",8238,"Actinopteri","Scombriformes","Scombridae","Thunnus","2021-12-18","PacBio Sequel; Chromium",4079918
+"GCA_003231725.1","Thunnus thynnus","Atlantic bluefin tuna",8237,"Actinopteri","Scombriformes","Scombridae","Thunnus","2018-06-15","Illumina HiSeq",2430
+"GCA_900607315.1","Trachinotus ovatus","derbio",173339,"Actinopteri","Carangiformes","Carangidae","Trachinotus","2018-12-02",NA,1846793
+"GCA_905171665.2","Trachurus trachurus","Atlantic horse mackerel",36212,"Actinopteri","Carangiformes","Carangidae","Trachurus","2021-11-26",NA,6490592
+"GCA_900323305.1","Trachyrincus murrayi","roughnose grenadier",241836,"Actinopteri","Gadiformes","Macrouridae","Trachyrincus","2018-03-26",NA,6231
+"GCA_900303215.1","Trachyrincus scabrus","roughsnout grenadier",562814,"Actinopteri","Gadiformes","Macrouridae","Trachyrincus","2018-03-18",NA,3900
+"GCF_902827165.1","Trematomus bernacchii","emerald rockcod",40690,"Actinopteri","Perciformes","Nototheniidae","Trematomus","2020-04-15",NA,1402669
+"GCA_943593355.1","Trematomus hansoni","striped rockcod",36196,"Actinopteri","Perciformes","Nototheniidae","Trematomus","2022-07-13",NA,8086
+"GCA_012861695.1","Trematomus loennbergii","deepwater notothen",40692,"Actinopteri","Perciformes","Nototheniidae","Trematomus","2020-04-27","PacBio Sequel; Hi-C",968532
+"GCA_943590805.1","Trematomus scotti","blackfin notothen",40693,"Actinopteri","Perciformes","Nototheniidae","Trematomus","2022-07-13",NA,2259
+"GCF_000243295.1","Trichechus manatus latirostris","Florida manatee",127582,"Mammalia","Sirenia","Trichechidae","Trichechus","2012-01-23","Illumina HiSeq",37750
+"GCA_016785345.1","Trinectes maculatus","hogchoker",195658,"Actinopteri","Pleuronectiformes","Achiridae","Trinectes","2021-02-01","Illumina HiSeq 4000",103915
+"GCA_027123545.1","Trisopterus esmarkii","Norway pout",80723,"Actinopteri","Gadiformes","Gadidae","Trisopterus","2022-12-20","Illumina",3455
+"GCA_027122455.1","Trisopterus luscus",NA,27722,"Actinopteri","Gadiformes","Gadidae","Trisopterus","2022-12-20","Illumina",3016
+"GCA_027122715.1","Trisopterus minutus","poor cod",80722,"Actinopteri","Gadiformes","Gadidae","Trisopterus","2022-12-20","Illumina",3779
+"GCA_003227395.1","Tursiops aduncus","Indo-pacific bottlenose dolphin",79784,"Mammalia","Cetartiodactyla","Delphinidae","Tursiops","2018-06-14","Illumina HiSeq",206065
+"GCF_011762595.1","Tursiops truncatus","common bottlenose dolphin",9739,"Mammalia","Cetartiodactyla","Delphinidae","Tursiops","2020-03-27","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",9729386
+"GCA_013401055.1","Uria aalge","common murre",13746,"Aves","Charadriiformes","Alcidae","Uria","2020-07-10","Illumina HiSeq",23216
+"GCA_002289315.1","Uria lomvia","thick-billed guillemot",28711,"Aves","Charadriiformes","Alcidae","Uria","2017-09-11","Illumina HiSeq",24899
+"GCA_027122555.1","Urophycis chuss","red hake",183656,"Actinopteri","Gadiformes","Phycidae","Urophycis","2022-12-20","Illumina",2299
+"GCA_027123175.1","Urophycis cirrata","Gulf hake",458613,"Actinopteri","Gadiformes","Phycidae","Urophycis","2022-12-20","Illumina",3045
+"GCA_027123135.1","Urophycis floridana","southern codling",630691,"Actinopteri","Gadiformes","Phycidae","Urophycis","2022-12-20","Illumina",3230
+"GCA_027123015.1","Urophycis regia","spotted codling",630692,"Actinopteri","Gadiformes","Phycidae","Urophycis","2022-12-20","Illumina",1703
+"GCF_017311325.1","Ursus maritimus","polar bear",29073,"Mammalia","Carnivora","Ursidae","Ursus","2021-03-09","Illumina HiSeq; Oxford Nanopore",206653
+"GCA_026259375.1","Verasper variegatus","spotted halibut",82366,"Actinopteri","Pleuronectiformes","Pleuronectidae","Verasper","2022-11-23","PacBio Sequel",22761669
+"GCA_943590875.1","Vomeridens infuscipinnis",NA,691752,"Actinopteri","Perciformes","Bathydraconidae","Vomeridens","2022-07-13",NA,3739
+"GCF_018345385.1","Vulpes lagopus","Arctic fox",494514,"Mammalia","Carnivora","Canidae","Vulpes","2021-05-12","PacBio Sequel; Illumina NovaSeq",33460300
+"GCA_014839995.1","Xenentodon cancila","freshwater garfish",129108,"Actinopteri","Beloniformes","Belonidae","Belone","2020-10-02","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",2195850
+"GCA_025774025.1","Xenus cinereus",NA,171277,"Aves","Charadriiformes","Scolopacidae","Xenus","2022-10-20","Illumina",22265
+"GCF_016859285.1","Xiphias gladius","swordfish",8245,"Actinopteri","Carangiformes","Xiphiidae","Xiphias","2021-02-12","Oxford Nanopore GridION; Illumina HiSeq; Illumina",5252707
+"GCF_009762305.2","Zalophus californianus","California sea lion",9704,"Mammalia","Carnivora","Otariidae","Zalophus","2020-07-14","PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS",32626160
+"GCA_029814745.1","Zanclus cornutus","moorish idol",75044,"Actinopteri","Acanthuriformes","Zanclidae","Zanclus","2023-04-18","Illumina",3023
+"GCA_028564865.1","Zenarchopterus dispar","feathered river-garfish",1311506,"Actinopteri","Beloniformes","Zenarchopteridae","Zenarchopterus","2023-02-09","Illumina",14430
+"GCA_960531495.1","Zeus faber","John dory",64108,"Actinopteri","Zeiformes","Zeidae","Zeus","2023-07-26","PacBio,Arima2",1449431
+"GCA_004364475.1","Ziphius cavirostris","Cuvier's beaked whale",9760,"Mammalia","Cetartiodactyla","Ziphiidae","Ziphius","2019-03-22","Illumina HiSeq",3606
