@@ -65,7 +65,7 @@ mv <- mv |> filter(!duplicated(mv$`Assembly Accession`))
 
 #### Manual curation ----------------------------------------------------------------------------------------------
 
-## Remove species that have incorrectly been labelled as marine - see `docs/1-ncbi-data.md` for full explanation
+## Remove species that have incorrectly been labelled as marine - see `docs/1-data-cleaning.md` for full explanation
 mv <- mv |> filter(!`Organism Name` %in% c("Accipiter virgatus","Aythya fuligula","Coregonus clupeaformis","Hypophthalmichthys nobilis","Inia geoffrensis","Squalius cephalus"))
 wv.species <- wv.species |> filter(!scientificName == "Hymenops perspicillatus")
 
