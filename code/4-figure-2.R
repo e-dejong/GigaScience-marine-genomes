@@ -12,7 +12,7 @@ library(tidyverse)    # data wrangling+
 
 #### Read in data ----------------------------------------------------------------------------------------------
 
-
+ncbi <- read.csv(here("data/supp-table-1.csv"))
 
 
 
