@@ -46,7 +46,6 @@ iucn$PT <- round((iucn$Subtotal..threatened.spp..  / iucn$Total)*100,2)
 
 ## Add IUCN data to the table
 all.orders$PT <- iucn$PT[match(toupper(all.orders$order), iucn$Name)]
-all.orders$TT <- iucn$Subtotal..threatened.spp..[match(toupper(all.orders$order), iucn$Name)] # total threatened
 
 ## Print the table
 all.orders |> arrange(class,order) |> print(n=200)
