@@ -92,6 +92,6 @@ ST1 |> print(n=700)
 
 ## Export the cleaned data - used for Table 1, and Figures 1 and 2
 write.csv(ST1, here("data/supp-table-1.csv"), row.names = F)
-write.csv(wv.species, here("results/marine-vert-species.csv"), row.names = F)
+write.csv(wv.species, here("data/marine-vert-species.csv"), row.names = F)
 
 
