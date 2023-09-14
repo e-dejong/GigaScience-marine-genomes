@@ -106,7 +106,7 @@ ncbi <- ncbi %>%
   mutate(tech_type = case_when(
     is.na(tech_cleaned) ~ NA_character_,
     # single technology types
-    grepl("ILLUMINA|BGI-SEQ", tech_cleaned) & !grepl("NANOPORE|HI-C|BIONANO|PACBIO", tech_cleaned) ~ "Shortread only",
+    grepl("ILLUMINA|BGI-SEQ", tech_cleaned) & !grepl("NANOPORE|HI-C|BIONANO|PACBIO", tech_cleaned) ~ "Short-read only",
     grepl("NANOPORE|PACBIO", tech_cleaned) & !grepl("HI-C|ILLUMINA|BIONANO|BGI-SEQ", tech_cleaned) ~ "Long-read only",
     
     # combinations
