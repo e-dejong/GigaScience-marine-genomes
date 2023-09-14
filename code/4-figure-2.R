@@ -9,7 +9,6 @@ library(here)         # simplify file paths
 library(tidyverse)    # data wrangling+
 
 
-
 #### Read in data ----------------------------------------------------------------------------------------------
 
 ncbi <- read.csv(here("data/supp-table-1.csv"))
@@ -39,7 +38,11 @@ pal <- c("#00A087CC", "#91D1C2CC")
 ggplot(ncbi, aes(x = Year, fill = N50size)) +
   geom_bar(position = "stack") +
   labs(title = "", x = "", y = "Number of ref. genomes") +  
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, size = 12),
+        axis.title.y = element_text(size = 12),
+        axis.text.y = element_text(size = 12),
+        legend.text = element_text(size = 12),
+        legend.position = "top") +
   scale_fill_manual(values=pal)
 
 
@@ -51,17 +54,11 @@ ggplot(data = ncbi, aes(x = Year, y = Assembly.Stats.Contig.N50, fill = Year)) +
   labs(title = " ",
        x = " ",
        y = "Contig N50")+  
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5)) +
-  guides(fill = FALSE)+
-  theme(axis.title.y = element_text(vjust = 1.5))
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, size = 12),
+        axis.title.y = element_text(vjust = 1.5, size = 12),
+        axis.text.y = element_text(size = 12),
+        legend.text = element_text(size = 12)) +
+  guides(fill = FALSE)
+ 
 
-# log scale
-ggplot(data = ncbi, aes(x = Year, y = Assembly.Stats.Contig.N50, fill = Year)) +
-  geom_boxplot() +
-  labs(title = " ",
-       x = " ",
-       y = "Contig N50")+  
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, size = 12)) +
-  guides(fill = FALSE)+
-  theme(axis.title.y = element_text(vjust = 1.5))+
-  scale_y_log10()
+
