@@ -18,6 +18,12 @@ ncbi <- read.csv(here("data/supp-table-1.csv"))
 
 #### Data wrangling ----------------------------------------------------------------------------------------------
 
+# Convert the date column to a Date format
+ncbi$Assembly.Release.Date <- as.Date(ncbi$Assembly.Release.Date)
+
+# Extract year from the date
+ncbi$Year <- format(ncbi$Assembly.Release.Date, "%Y")
+
 # Format the submitter-supplied tech column
 tech <- strsplit(toupper(ncbi$"Assembly.Sequencing.Tech"), "\\s+|,")
 tech <- lapply(tech, function(x) gsub(";", "", x))
@@ -74,3 +80,48 @@ UpSet(m1,
 
 
 #### Figure 1B ----------------------------------------------------------------------------------------------
+
+# Create new column for technology used
+ncbi$tech <- toupper(ncbi$Assembly.Sequencing.Tech)
+
+# Define a custom function to fix spelling errors -  same as for UpSet plot
+fix_spelling <- function(tech) {
+  tech <- case_when(
+    grepl("HIC", tech, ignore.case = TRUE) ~ "HI-C",
+    grepl("BGISEQ-500|BGISEQ500|BGISEQ", tech, ignore.case = TRUE) ~ "BGI-SEQ",
+    grepl("ILLUMINA\"", tech, ignore.case = TRUE) ~ "ILLUMINA",
+    grepl("PACBIO_SMART", tech, ignore.case = TRUE) ~ "PACBIO",
+    # Add more replacements as needed
+    TRUE ~ tech
+  )
+  return(tech)
+}
+
+# Apply the custom function to the "tech" column of the dataframe
+ncbi <- ncbi %>%
+  mutate(tech_cleaned = fix_spelling(tech))
+
+# summarise technology types
+ncbi <- ncbi %>%
+  mutate(tech_type = case_when(
+    is.na(tech_cleaned) ~ NA_character_,
+    # single technology types
+    grepl("ILLUMINA|BGI-SEQ", tech_cleaned) & !grepl("NANOPORE|HI-C|BIONANO|PACBIO", tech_cleaned) ~ "Short-read only",
+    grepl("NANOPORE|PACBIO", tech_cleaned) & !grepl("HI-C|ILLUMINA|BIONANO|BGI-SEQ", tech_cleaned) ~ "Long-read only",
+    
+    # combinations
+    grepl("ILLUMINA|BGI-SEQ", tech_cleaned) & grepl("NANOPORE|PACBIO", tech_cleaned) & !grepl("HI-C|BIONANO", tech_cleaned) ~ "Long + short-read",
+    grepl("HI-C|BIONANO", tech_cleaned) & grepl("NANOPORE|PACBIO", tech_cleaned) & !grepl("ILLUMINA|BGI-SEQ", tech_cleaned) ~ "Hi-C/Bionano + long-read",
+    grepl("HI-C|BIONANO", tech_cleaned) & grepl("ILLUMINA|BGI-SEQ", tech_cleaned) & !grepl("NANOPORE|PACBIO", tech_cleaned) ~ "Hi-C/Bionano + short-read",
+    
+    # combination of four technologies
+    grepl("ILLUMINA", tech_cleaned) & grepl("PACBIO", tech_cleaned) & grepl("HI-C", tech_cleaned) & grepl("BIONANO", tech_cleaned) & !grepl("BGI-SEQ", tech_cleaned) ~ "Hi-C/Bionano + short-read + long-read",
+    TRUE ~ "Other"
+  ))
+
+# Generate the plot
+ggplot(ncbi, aes(x = Year, fill = tech_type)) +
+  geom_bar(position = "stack") +
+  labs(title = "", x = "", y = "Number of ref. genomes") +  
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, size = 12)) +
+  scale_fill_npg(alpha = 0.8,na.value = "#999999cc")
