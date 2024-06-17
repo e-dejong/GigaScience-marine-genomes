@@ -9,7 +9,7 @@ by Emma de Jong<sup>1*</sup>, Lara Parata<sup>1</sup>, Philipp E. Bayer<sup>1,2<
 
 ## Overview
 
-This repository describes the methodology, and provides code to reproduce all analysis in PMID XXXX (link to paper)
+This repository describes the methodology, and provides code to reproduce all analysis in [this publication](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad119/7590551)
 > `data/` contains all required data files  
 > `code/` contains all scripts used to generate tables and figures  
 > `docs/` contains descriptions and methodology relating to data generation and results
